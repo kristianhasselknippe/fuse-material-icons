@@ -1,937 +1,937 @@
 <Panel ux:Class="MaterialIcons">
 	<Font File="Assets/MaterialIcons-Regular.ttf" ux:Global="MaterialIcons"/>
 
-	<Text ux:Class="mi_3d_rotation" Value="&#xe84d;" />
-	<Text ux:Class="mi_ac_unit" Value="&#xeb3b;" />
-	<Text ux:Class="mi_access_alarm" Value="&#xe190;" />
-	<Text ux:Class="mi_access_alarms" Value="&#xe191;" />
-	<Text ux:Class="mi_access_time" Value="&#xe192;" />
-	<Text ux:Class="mi_accessibility" Value="&#xe84e;" />
-	<Text ux:Class="mi_accessible" Value="&#xe914;" />
-	<Text ux:Class="mi_account_balance" Value="&#xe84f;" />
-	<Text ux:Class="mi_account_balance_wallet" Value="&#xe850;" />
-	<Text ux:Class="mi_account_box" Value="&#xe851;" />
-	<Text ux:Class="mi_account_circle" Value="&#xe853;" />
-	<Text ux:Class="mi_adb" Value="&#xe60e;" />
-	<Text ux:Class="mi_add" Value="&#xe145;" />
-	<Text ux:Class="mi_add_a_photo" Value="&#xe439;" />
-	<Text ux:Class="mi_add_alarm" Value="&#xe193;" />
-	<Text ux:Class="mi_add_alert" Value="&#xe003;" />
-	<Text ux:Class="mi_add_box" Value="&#xe146;" />
-	<Text ux:Class="mi_add_circle" Value="&#xe147;" />
-	<Text ux:Class="mi_add_circle_outline" Value="&#xe148;" />
-	<Text ux:Class="mi_add_location" Value="&#xe567;" />
-	<Text ux:Class="mi_add_shopping_cart" Value="&#xe854;" />
-	<Text ux:Class="mi_add_to_photos" Value="&#xe39d;" />
-	<Text ux:Class="mi_add_to_queue" Value="&#xe05c;" />
-	<Text ux:Class="mi_adjust" Value="&#xe39e;" />
-	<Text ux:Class="mi_airline_seat_flat" Value="&#xe630;" />
-	<Text ux:Class="mi_airline_seat_flat_angled" Value="&#xe631;" />
-	<Text ux:Class="mi_airline_seat_individual_suite" Value="&#xe632;" />
-	<Text ux:Class="mi_airline_seat_legroom_extra" Value="&#xe633;" />
-	<Text ux:Class="mi_airline_seat_legroom_normal" Value="&#xe634;" />
-	<Text ux:Class="mi_airline_seat_legroom_reduced" Value="&#xe635;" />
-	<Text ux:Class="mi_airline_seat_recline_extra" Value="&#xe636;" />
-	<Text ux:Class="mi_airline_seat_recline_normal" Value="&#xe637;" />
-	<Text ux:Class="mi_airplanemode_active" Value="&#xe195;" />
-	<Text ux:Class="mi_airplanemode_inactive" Value="&#xe194;" />
-	<Text ux:Class="mi_airplay" Value="&#xe055;" />
-	<Text ux:Class="mi_airport_shuttle" Value="&#xeb3c;" />
-	<Text ux:Class="mi_alarm" Value="&#xe855;" />
-	<Text ux:Class="mi_alarm_add" Value="&#xe856;" />
-	<Text ux:Class="mi_alarm_off" Value="&#xe857;" />
-	<Text ux:Class="mi_alarm_on" Value="&#xe858;" />
-	<Text ux:Class="mi_album" Value="&#xe019;" />
-	<Text ux:Class="mi_all_inclusive" Value="&#xeb3d;" />
-	<Text ux:Class="mi_all_out" Value="&#xe90b;" />
-	<Text ux:Class="mi_android" Value="&#xe859;" />
-	<Text ux:Class="mi_announcement" Value="&#xe85a;" />
-	<Text ux:Class="mi_apps" Value="&#xe5c3;" />
-	<Text ux:Class="mi_archive" Value="&#xe149;" />
-	<Text ux:Class="mi_arrow_back" Value="&#xe5c4;" />
-	<Text ux:Class="mi_arrow_downward" Value="&#xe5db;" />
-	<Text ux:Class="mi_arrow_drop_down" Value="&#xe5c5;" />
-	<Text ux:Class="mi_arrow_drop_down_circle" Value="&#xe5c6;" />
-	<Text ux:Class="mi_arrow_drop_up" Value="&#xe5c7;" />
-	<Text ux:Class="mi_arrow_forward" Value="&#xe5c8;" />
-	<Text ux:Class="mi_arrow_upward" Value="&#xe5d8;" />
-	<Text ux:Class="mi_art_track" Value="&#xe060;" />
-	<Text ux:Class="mi_aspect_ratio" Value="&#xe85b;" />
-	<Text ux:Class="mi_assessment" Value="&#xe85c;" />
-	<Text ux:Class="mi_assignment" Value="&#xe85d;" />
-	<Text ux:Class="mi_assignment_ind" Value="&#xe85e;" />
-	<Text ux:Class="mi_assignment_late" Value="&#xe85f;" />
-	<Text ux:Class="mi_assignment_return" Value="&#xe860;" />
-	<Text ux:Class="mi_assignment_returned" Value="&#xe861;" />
-	<Text ux:Class="mi_assignment_turned_in" Value="&#xe862;" />
-	<Text ux:Class="mi_assistant" Value="&#xe39f;" />
-	<Text ux:Class="mi_assistant_photo" Value="&#xe3a0;" />
-	<Text ux:Class="mi_attach_file" Value="&#xe226;" />
-	<Text ux:Class="mi_attach_money" Value="&#xe227;" />
-	<Text ux:Class="mi_attachment" Value="&#xe2bc;" />
-	<Text ux:Class="mi_audiotrack" Value="&#xe3a1;" />
-	<Text ux:Class="mi_autorenew" Value="&#xe863;" />
-	<Text ux:Class="mi_av_timer" Value="&#xe01b;" />
-	<Text ux:Class="mi_backspace" Value="&#xe14a;" />
-	<Text ux:Class="mi_backup" Value="&#xe864;" />
-	<Text ux:Class="mi_battery_alert" Value="&#xe19c;" />
-	<Text ux:Class="mi_battery_charging_full" Value="&#xe1a3;" />
-	<Text ux:Class="mi_battery_full" Value="&#xe1a4;" />
-	<Text ux:Class="mi_battery_std" Value="&#xe1a5;" />
-	<Text ux:Class="mi_battery_unknown" Value="&#xe1a6;" />
-	<Text ux:Class="mi_beach_access" Value="&#xeb3e;" />
-	<Text ux:Class="mi_beenhere" Value="&#xe52d;" />
-	<Text ux:Class="mi_block" Value="&#xe14b;" />
-	<Text ux:Class="mi_bluetooth" Value="&#xe1a7;" />
-	<Text ux:Class="mi_bluetooth_audio" Value="&#xe60f;" />
-	<Text ux:Class="mi_bluetooth_connected" Value="&#xe1a8;" />
-	<Text ux:Class="mi_bluetooth_disabled" Value="&#xe1a9;" />
-	<Text ux:Class="mi_bluetooth_searching" Value="&#xe1aa;" />
-	<Text ux:Class="mi_blur_circular" Value="&#xe3a2;" />
-	<Text ux:Class="mi_blur_linear" Value="&#xe3a3;" />
-	<Text ux:Class="mi_blur_off" Value="&#xe3a4;" />
-	<Text ux:Class="mi_blur_on" Value="&#xe3a5;" />
-	<Text ux:Class="mi_book" Value="&#xe865;" />
-	<Text ux:Class="mi_bookmark" Value="&#xe866;" />
-	<Text ux:Class="mi_bookmark_border" Value="&#xe867;" />
-	<Text ux:Class="mi_border_all" Value="&#xe228;" />
-	<Text ux:Class="mi_border_bottom" Value="&#xe229;" />
-	<Text ux:Class="mi_border_clear" Value="&#xe22a;" />
-	<Text ux:Class="mi_border_color" Value="&#xe22b;" />
-	<Text ux:Class="mi_border_horizontal" Value="&#xe22c;" />
-	<Text ux:Class="mi_border_inner" Value="&#xe22d;" />
-	<Text ux:Class="mi_border_left" Value="&#xe22e;" />
-	<Text ux:Class="mi_border_outer" Value="&#xe22f;" />
-	<Text ux:Class="mi_border_right" Value="&#xe230;" />
-	<Text ux:Class="mi_border_style" Value="&#xe231;" />
-	<Text ux:Class="mi_border_top" Value="&#xe232;" />
-	<Text ux:Class="mi_border_vertical" Value="&#xe233;" />
-	<Text ux:Class="mi_branding_watermark" Value="&#xe06b;" />
-	<Text ux:Class="mi_brightness_1" Value="&#xe3a6;" />
-	<Text ux:Class="mi_brightness_2" Value="&#xe3a7;" />
-	<Text ux:Class="mi_brightness_3" Value="&#xe3a8;" />
-	<Text ux:Class="mi_brightness_4" Value="&#xe3a9;" />
-	<Text ux:Class="mi_brightness_5" Value="&#xe3aa;" />
-	<Text ux:Class="mi_brightness_6" Value="&#xe3ab;" />
-	<Text ux:Class="mi_brightness_7" Value="&#xe3ac;" />
-	<Text ux:Class="mi_brightness_auto" Value="&#xe1ab;" />
-	<Text ux:Class="mi_brightness_high" Value="&#xe1ac;" />
-	<Text ux:Class="mi_brightness_low" Value="&#xe1ad;" />
-	<Text ux:Class="mi_brightness_medium" Value="&#xe1ae;" />
-	<Text ux:Class="mi_broken_image" Value="&#xe3ad;" />
-	<Text ux:Class="mi_brush" Value="&#xe3ae;" />
-	<Text ux:Class="mi_bubble_chart" Value="&#xe6dd;" />
-	<Text ux:Class="mi_bug_report" Value="&#xe868;" />
-	<Text ux:Class="mi_build" Value="&#xe869;" />
-	<Text ux:Class="mi_burst_mode" Value="&#xe43c;" />
-	<Text ux:Class="mi_business" Value="&#xe0af;" />
-	<Text ux:Class="mi_business_center" Value="&#xeb3f;" />
-	<Text ux:Class="mi_cached" Value="&#xe86a;" />
-	<Text ux:Class="mi_cake" Value="&#xe7e9;" />
-	<Text ux:Class="mi_call" Value="&#xe0b0;" />
-	<Text ux:Class="mi_call_end" Value="&#xe0b1;" />
-	<Text ux:Class="mi_call_made" Value="&#xe0b2;" />
-	<Text ux:Class="mi_call_merge" Value="&#xe0b3;" />
-	<Text ux:Class="mi_call_missed" Value="&#xe0b4;" />
-	<Text ux:Class="mi_call_missed_outgoing" Value="&#xe0e4;" />
-	<Text ux:Class="mi_call_received" Value="&#xe0b5;" />
-	<Text ux:Class="mi_call_split" Value="&#xe0b6;" />
-	<Text ux:Class="mi_call_to_action" Value="&#xe06c;" />
-	<Text ux:Class="mi_camera" Value="&#xe3af;" />
-	<Text ux:Class="mi_camera_alt" Value="&#xe3b0;" />
-	<Text ux:Class="mi_camera_enhance" Value="&#xe8fc;" />
-	<Text ux:Class="mi_camera_front" Value="&#xe3b1;" />
-	<Text ux:Class="mi_camera_rear" Value="&#xe3b2;" />
-	<Text ux:Class="mi_camera_roll" Value="&#xe3b3;" />
-	<Text ux:Class="mi_cancel" Value="&#xe5c9;" />
-	<Text ux:Class="mi_card_giftcard" Value="&#xe8f6;" />
-	<Text ux:Class="mi_card_membership" Value="&#xe8f7;" />
-	<Text ux:Class="mi_card_travel" Value="&#xe8f8;" />
-	<Text ux:Class="mi_casino" Value="&#xeb40;" />
-	<Text ux:Class="mi_cast" Value="&#xe307;" />
-	<Text ux:Class="mi_cast_connected" Value="&#xe308;" />
-	<Text ux:Class="mi_center_focus_strong" Value="&#xe3b4;" />
-	<Text ux:Class="mi_center_focus_weak" Value="&#xe3b5;" />
-	<Text ux:Class="mi_change_history" Value="&#xe86b;" />
-	<Text ux:Class="mi_chat" Value="&#xe0b7;" />
-	<Text ux:Class="mi_chat_bubble" Value="&#xe0ca;" />
-	<Text ux:Class="mi_chat_bubble_outline" Value="&#xe0cb;" />
-	<Text ux:Class="mi_check" Value="&#xe5ca;" />
-	<Text ux:Class="mi_check_box" Value="&#xe834;" />
-	<Text ux:Class="mi_check_box_outline_blank" Value="&#xe835;" />
-	<Text ux:Class="mi_check_circle" Value="&#xe86c;" />
-	<Text ux:Class="mi_chevron_left" Value="&#xe5cb;" />
-	<Text ux:Class="mi_chevron_right" Value="&#xe5cc;" />
-	<Text ux:Class="mi_child_care" Value="&#xeb41;" />
-	<Text ux:Class="mi_child_friendly" Value="&#xeb42;" />
-	<Text ux:Class="mi_chrome_reader_mode" Value="&#xe86d;" />
-	<Text ux:Class="mi_class" Value="&#xe86e;" />
-	<Text ux:Class="mi_clear" Value="&#xe14c;" />
-	<Text ux:Class="mi_clear_all" Value="&#xe0b8;" />
-	<Text ux:Class="mi_close" Value="&#xe5cd;" />
-	<Text ux:Class="mi_closed_caption" Value="&#xe01c;" />
-	<Text ux:Class="mi_cloud" Value="&#xe2bd;" />
-	<Text ux:Class="mi_cloud_circle" Value="&#xe2be;" />
-	<Text ux:Class="mi_cloud_done" Value="&#xe2bf;" />
-	<Text ux:Class="mi_cloud_download" Value="&#xe2c0;" />
-	<Text ux:Class="mi_cloud_off" Value="&#xe2c1;" />
-	<Text ux:Class="mi_cloud_queue" Value="&#xe2c2;" />
-	<Text ux:Class="mi_cloud_upload" Value="&#xe2c3;" />
-	<Text ux:Class="mi_code" Value="&#xe86f;" />
-	<Text ux:Class="mi_collections" Value="&#xe3b6;" />
-	<Text ux:Class="mi_collections_bookmark" Value="&#xe431;" />
-	<Text ux:Class="mi_color_lens" Value="&#xe3b7;" />
-	<Text ux:Class="mi_colorize" Value="&#xe3b8;" />
-	<Text ux:Class="mi_comment" Value="&#xe0b9;" />
-	<Text ux:Class="mi_compare" Value="&#xe3b9;" />
-	<Text ux:Class="mi_compare_arrows" Value="&#xe915;" />
-	<Text ux:Class="mi_computer" Value="&#xe30a;" />
-	<Text ux:Class="mi_confirmation_number" Value="&#xe638;" />
-	<Text ux:Class="mi_contact_mail" Value="&#xe0d0;" />
-	<Text ux:Class="mi_contact_phone" Value="&#xe0cf;" />
-	<Text ux:Class="mi_contacts" Value="&#xe0ba;" />
-	<Text ux:Class="mi_content_copy" Value="&#xe14d;" />
-	<Text ux:Class="mi_content_cut" Value="&#xe14e;" />
-	<Text ux:Class="mi_content_paste" Value="&#xe14f;" />
-	<Text ux:Class="mi_control_point" Value="&#xe3ba;" />
-	<Text ux:Class="mi_control_point_duplicate" Value="&#xe3bb;" />
-	<Text ux:Class="mi_copyright" Value="&#xe90c;" />
-	<Text ux:Class="mi_create" Value="&#xe150;" />
-	<Text ux:Class="mi_create_new_folder" Value="&#xe2cc;" />
-	<Text ux:Class="mi_credit_card" Value="&#xe870;" />
-	<Text ux:Class="mi_crop" Value="&#xe3be;" />
-	<Text ux:Class="mi_crop_16_9" Value="&#xe3bc;" />
-	<Text ux:Class="mi_crop_3_2" Value="&#xe3bd;" />
-	<Text ux:Class="mi_crop_5_4" Value="&#xe3bf;" />
-	<Text ux:Class="mi_crop_7_5" Value="&#xe3c0;" />
-	<Text ux:Class="mi_crop_din" Value="&#xe3c1;" />
-	<Text ux:Class="mi_crop_free" Value="&#xe3c2;" />
-	<Text ux:Class="mi_crop_landscape" Value="&#xe3c3;" />
-	<Text ux:Class="mi_crop_original" Value="&#xe3c4;" />
-	<Text ux:Class="mi_crop_portrait" Value="&#xe3c5;" />
-	<Text ux:Class="mi_crop_rotate" Value="&#xe437;" />
-	<Text ux:Class="mi_crop_square" Value="&#xe3c6;" />
-	<Text ux:Class="mi_dashboard" Value="&#xe871;" />
-	<Text ux:Class="mi_data_usage" Value="&#xe1af;" />
-	<Text ux:Class="mi_date_range" Value="&#xe916;" />
-	<Text ux:Class="mi_dehaze" Value="&#xe3c7;" />
-	<Text ux:Class="mi_delete" Value="&#xe872;" />
-	<Text ux:Class="mi_delete_forever" Value="&#xe92b;" />
-	<Text ux:Class="mi_delete_sweep" Value="&#xe16c;" />
-	<Text ux:Class="mi_description" Value="&#xe873;" />
-	<Text ux:Class="mi_desktop_mac" Value="&#xe30b;" />
-	<Text ux:Class="mi_desktop_windows" Value="&#xe30c;" />
-	<Text ux:Class="mi_details" Value="&#xe3c8;" />
-	<Text ux:Class="mi_developer_board" Value="&#xe30d;" />
-	<Text ux:Class="mi_developer_mode" Value="&#xe1b0;" />
-	<Text ux:Class="mi_device_hub" Value="&#xe335;" />
-	<Text ux:Class="mi_devices" Value="&#xe1b1;" />
-	<Text ux:Class="mi_devices_other" Value="&#xe337;" />
-	<Text ux:Class="mi_dialer_sip" Value="&#xe0bb;" />
-	<Text ux:Class="mi_dialpad" Value="&#xe0bc;" />
-	<Text ux:Class="mi_directions" Value="&#xe52e;" />
-	<Text ux:Class="mi_directions_bike" Value="&#xe52f;" />
-	<Text ux:Class="mi_directions_boat" Value="&#xe532;" />
-	<Text ux:Class="mi_directions_bus" Value="&#xe530;" />
-	<Text ux:Class="mi_directions_car" Value="&#xe531;" />
-	<Text ux:Class="mi_directions_railway" Value="&#xe534;" />
-	<Text ux:Class="mi_directions_run" Value="&#xe566;" />
-	<Text ux:Class="mi_directions_subway" Value="&#xe533;" />
-	<Text ux:Class="mi_directions_transit" Value="&#xe535;" />
-	<Text ux:Class="mi_directions_walk" Value="&#xe536;" />
-	<Text ux:Class="mi_disc_full" Value="&#xe610;" />
-	<Text ux:Class="mi_dns" Value="&#xe875;" />
-	<Text ux:Class="mi_do_not_disturb" Value="&#xe612;" />
-	<Text ux:Class="mi_do_not_disturb_alt" Value="&#xe611;" />
-	<Text ux:Class="mi_do_not_disturb_off" Value="&#xe643;" />
-	<Text ux:Class="mi_do_not_disturb_on" Value="&#xe644;" />
-	<Text ux:Class="mi_dock" Value="&#xe30e;" />
-	<Text ux:Class="mi_domain" Value="&#xe7ee;" />
-	<Text ux:Class="mi_done" Value="&#xe876;" />
-	<Text ux:Class="mi_done_all" Value="&#xe877;" />
-	<Text ux:Class="mi_donut_large" Value="&#xe917;" />
-	<Text ux:Class="mi_donut_small" Value="&#xe918;" />
-	<Text ux:Class="mi_drafts" Value="&#xe151;" />
-	<Text ux:Class="mi_drag_handle" Value="&#xe25d;" />
-	<Text ux:Class="mi_drive_eta" Value="&#xe613;" />
-	<Text ux:Class="mi_dvr" Value="&#xe1b2;" />
-	<Text ux:Class="mi_edit" Value="&#xe3c9;" />
-	<Text ux:Class="mi_edit_location" Value="&#xe568;" />
-	<Text ux:Class="mi_eject" Value="&#xe8fb;" />
-	<Text ux:Class="mi_email" Value="&#xe0be;" />
-	<Text ux:Class="mi_enhanced_encryption" Value="&#xe63f;" />
-	<Text ux:Class="mi_equalizer" Value="&#xe01d;" />
-	<Text ux:Class="mi_error" Value="&#xe000;" />
-	<Text ux:Class="mi_error_outline" Value="&#xe001;" />
-	<Text ux:Class="mi_euro_symbol" Value="&#xe926;" />
-	<Text ux:Class="mi_ev_station" Value="&#xe56d;" />
-	<Text ux:Class="mi_event" Value="&#xe878;" />
-	<Text ux:Class="mi_event_available" Value="&#xe614;" />
-	<Text ux:Class="mi_event_busy" Value="&#xe615;" />
-	<Text ux:Class="mi_event_note" Value="&#xe616;" />
-	<Text ux:Class="mi_event_seat" Value="&#xe903;" />
-	<Text ux:Class="mi_exit_to_app" Value="&#xe879;" />
-	<Text ux:Class="mi_expand_less" Value="&#xe5ce;" />
-	<Text ux:Class="mi_expand_more" Value="&#xe5cf;" />
-	<Text ux:Class="mi_explicit" Value="&#xe01e;" />
-	<Text ux:Class="mi_explore" Value="&#xe87a;" />
-	<Text ux:Class="mi_exposure" Value="&#xe3ca;" />
-	<Text ux:Class="mi_exposure_neg_1" Value="&#xe3cb;" />
-	<Text ux:Class="mi_exposure_neg_2" Value="&#xe3cc;" />
-	<Text ux:Class="mi_exposure_plus_1" Value="&#xe3cd;" />
-	<Text ux:Class="mi_exposure_plus_2" Value="&#xe3ce;" />
-	<Text ux:Class="mi_exposure_zero" Value="&#xe3cf;" />
-	<Text ux:Class="mi_extension" Value="&#xe87b;" />
-	<Text ux:Class="mi_face" Value="&#xe87c;" />
-	<Text ux:Class="mi_fast_forward" Value="&#xe01f;" />
-	<Text ux:Class="mi_fast_rewind" Value="&#xe020;" />
-	<Text ux:Class="mi_favorite" Value="&#xe87d;" />
-	<Text ux:Class="mi_favorite_border" Value="&#xe87e;" />
-	<Text ux:Class="mi_featured_play_list" Value="&#xe06d;" />
-	<Text ux:Class="mi_featured_video" Value="&#xe06e;" />
-	<Text ux:Class="mi_feedback" Value="&#xe87f;" />
-	<Text ux:Class="mi_fiber_dvr" Value="&#xe05d;" />
-	<Text ux:Class="mi_fiber_manual_record" Value="&#xe061;" />
-	<Text ux:Class="mi_fiber_new" Value="&#xe05e;" />
-	<Text ux:Class="mi_fiber_pin" Value="&#xe06a;" />
-	<Text ux:Class="mi_fiber_smart_record" Value="&#xe062;" />
-	<Text ux:Class="mi_file_download" Value="&#xe2c4;" />
-	<Text ux:Class="mi_file_upload" Value="&#xe2c6;" />
-	<Text ux:Class="mi_filter" Value="&#xe3d3;" />
-	<Text ux:Class="mi_filter_1" Value="&#xe3d0;" />
-	<Text ux:Class="mi_filter_2" Value="&#xe3d1;" />
-	<Text ux:Class="mi_filter_3" Value="&#xe3d2;" />
-	<Text ux:Class="mi_filter_4" Value="&#xe3d4;" />
-	<Text ux:Class="mi_filter_5" Value="&#xe3d5;" />
-	<Text ux:Class="mi_filter_6" Value="&#xe3d6;" />
-	<Text ux:Class="mi_filter_7" Value="&#xe3d7;" />
-	<Text ux:Class="mi_filter_8" Value="&#xe3d8;" />
-	<Text ux:Class="mi_filter_9" Value="&#xe3d9;" />
-	<Text ux:Class="mi_filter_9_plus" Value="&#xe3da;" />
-	<Text ux:Class="mi_filter_b_and_w" Value="&#xe3db;" />
-	<Text ux:Class="mi_filter_center_focus" Value="&#xe3dc;" />
-	<Text ux:Class="mi_filter_drama" Value="&#xe3dd;" />
-	<Text ux:Class="mi_filter_frames" Value="&#xe3de;" />
-	<Text ux:Class="mi_filter_hdr" Value="&#xe3df;" />
-	<Text ux:Class="mi_filter_list" Value="&#xe152;" />
-	<Text ux:Class="mi_filter_none" Value="&#xe3e0;" />
-	<Text ux:Class="mi_filter_tilt_shift" Value="&#xe3e2;" />
-	<Text ux:Class="mi_filter_vintage" Value="&#xe3e3;" />
-	<Text ux:Class="mi_find_in_page" Value="&#xe880;" />
-	<Text ux:Class="mi_find_replace" Value="&#xe881;" />
-	<Text ux:Class="mi_fingerprint" Value="&#xe90d;" />
-	<Text ux:Class="mi_first_page" Value="&#xe5dc;" />
-	<Text ux:Class="mi_fitness_center" Value="&#xeb43;" />
-	<Text ux:Class="mi_flag" Value="&#xe153;" />
-	<Text ux:Class="mi_flare" Value="&#xe3e4;" />
-	<Text ux:Class="mi_flash_auto" Value="&#xe3e5;" />
-	<Text ux:Class="mi_flash_off" Value="&#xe3e6;" />
-	<Text ux:Class="mi_flash_on" Value="&#xe3e7;" />
-	<Text ux:Class="mi_flight" Value="&#xe539;" />
-	<Text ux:Class="mi_flight_land" Value="&#xe904;" />
-	<Text ux:Class="mi_flight_takeoff" Value="&#xe905;" />
-	<Text ux:Class="mi_flip" Value="&#xe3e8;" />
-	<Text ux:Class="mi_flip_to_back" Value="&#xe882;" />
-	<Text ux:Class="mi_flip_to_front" Value="&#xe883;" />
-	<Text ux:Class="mi_folder" Value="&#xe2c7;" />
-	<Text ux:Class="mi_folder_open" Value="&#xe2c8;" />
-	<Text ux:Class="mi_folder_shared" Value="&#xe2c9;" />
-	<Text ux:Class="mi_folder_special" Value="&#xe617;" />
-	<Text ux:Class="mi_font_download" Value="&#xe167;" />
-	<Text ux:Class="mi_format_align_center" Value="&#xe234;" />
-	<Text ux:Class="mi_format_align_justify" Value="&#xe235;" />
-	<Text ux:Class="mi_format_align_left" Value="&#xe236;" />
-	<Text ux:Class="mi_format_align_right" Value="&#xe237;" />
-	<Text ux:Class="mi_format_bold" Value="&#xe238;" />
-	<Text ux:Class="mi_format_clear" Value="&#xe239;" />
-	<Text ux:Class="mi_format_color_fill" Value="&#xe23a;" />
-	<Text ux:Class="mi_format_color_reset" Value="&#xe23b;" />
-	<Text ux:Class="mi_format_color_text" Value="&#xe23c;" />
-	<Text ux:Class="mi_format_indent_decrease" Value="&#xe23d;" />
-	<Text ux:Class="mi_format_indent_increase" Value="&#xe23e;" />
-	<Text ux:Class="mi_format_italic" Value="&#xe23f;" />
-	<Text ux:Class="mi_format_line_spacing" Value="&#xe240;" />
-	<Text ux:Class="mi_format_list_bulleted" Value="&#xe241;" />
-	<Text ux:Class="mi_format_list_numbered" Value="&#xe242;" />
-	<Text ux:Class="mi_format_paint" Value="&#xe243;" />
-	<Text ux:Class="mi_format_quote" Value="&#xe244;" />
-	<Text ux:Class="mi_format_shapes" Value="&#xe25e;" />
-	<Text ux:Class="mi_format_size" Value="&#xe245;" />
-	<Text ux:Class="mi_format_strikethrough" Value="&#xe246;" />
-	<Text ux:Class="mi_format_textdirection_l_to_r" Value="&#xe247;" />
-	<Text ux:Class="mi_format_textdirection_r_to_l" Value="&#xe248;" />
-	<Text ux:Class="mi_format_underlined" Value="&#xe249;" />
-	<Text ux:Class="mi_forum" Value="&#xe0bf;" />
-	<Text ux:Class="mi_forward" Value="&#xe154;" />
-	<Text ux:Class="mi_forward_10" Value="&#xe056;" />
-	<Text ux:Class="mi_forward_30" Value="&#xe057;" />
-	<Text ux:Class="mi_forward_5" Value="&#xe058;" />
-	<Text ux:Class="mi_free_breakfast" Value="&#xeb44;" />
-	<Text ux:Class="mi_fullscreen" Value="&#xe5d0;" />
-	<Text ux:Class="mi_fullscreen_exit" Value="&#xe5d1;" />
-	<Text ux:Class="mi_functions" Value="&#xe24a;" />
-	<Text ux:Class="mi_g_translate" Value="&#xe927;" />
-	<Text ux:Class="mi_gamepad" Value="&#xe30f;" />
-	<Text ux:Class="mi_games" Value="&#xe021;" />
-	<Text ux:Class="mi_gavel" Value="&#xe90e;" />
-	<Text ux:Class="mi_gesture" Value="&#xe155;" />
-	<Text ux:Class="mi_get_app" Value="&#xe884;" />
-	<Text ux:Class="mi_gif" Value="&#xe908;" />
-	<Text ux:Class="mi_golf_course" Value="&#xeb45;" />
-	<Text ux:Class="mi_gps_fixed" Value="&#xe1b3;" />
-	<Text ux:Class="mi_gps_not_fixed" Value="&#xe1b4;" />
-	<Text ux:Class="mi_gps_off" Value="&#xe1b5;" />
-	<Text ux:Class="mi_grade" Value="&#xe885;" />
-	<Text ux:Class="mi_gradient" Value="&#xe3e9;" />
-	<Text ux:Class="mi_grain" Value="&#xe3ea;" />
-	<Text ux:Class="mi_graphic_eq" Value="&#xe1b8;" />
-	<Text ux:Class="mi_grid_off" Value="&#xe3eb;" />
-	<Text ux:Class="mi_grid_on" Value="&#xe3ec;" />
-	<Text ux:Class="mi_group" Value="&#xe7ef;" />
-	<Text ux:Class="mi_group_add" Value="&#xe7f0;" />
-	<Text ux:Class="mi_group_work" Value="&#xe886;" />
-	<Text ux:Class="mi_hd" Value="&#xe052;" />
-	<Text ux:Class="mi_hdr_off" Value="&#xe3ed;" />
-	<Text ux:Class="mi_hdr_on" Value="&#xe3ee;" />
-	<Text ux:Class="mi_hdr_strong" Value="&#xe3f1;" />
-	<Text ux:Class="mi_hdr_weak" Value="&#xe3f2;" />
-	<Text ux:Class="mi_headset" Value="&#xe310;" />
-	<Text ux:Class="mi_headset_mic" Value="&#xe311;" />
-	<Text ux:Class="mi_healing" Value="&#xe3f3;" />
-	<Text ux:Class="mi_hearing" Value="&#xe023;" />
-	<Text ux:Class="mi_help" Value="&#xe887;" />
-	<Text ux:Class="mi_help_outline" Value="&#xe8fd;" />
-	<Text ux:Class="mi_high_quality" Value="&#xe024;" />
-	<Text ux:Class="mi_highlight" Value="&#xe25f;" />
-	<Text ux:Class="mi_highlight_off" Value="&#xe888;" />
-	<Text ux:Class="mi_history" Value="&#xe889;" />
-	<Text ux:Class="mi_home" Value="&#xe88a;" />
-	<Text ux:Class="mi_hot_tub" Value="&#xeb46;" />
-	<Text ux:Class="mi_hotel" Value="&#xe53a;" />
-	<Text ux:Class="mi_hourglass_empty" Value="&#xe88b;" />
-	<Text ux:Class="mi_hourglass_full" Value="&#xe88c;" />
-	<Text ux:Class="mi_http" Value="&#xe902;" />
-	<Text ux:Class="mi_https" Value="&#xe88d;" />
-	<Text ux:Class="mi_image" Value="&#xe3f4;" />
-	<Text ux:Class="mi_image_aspect_ratio" Value="&#xe3f5;" />
-	<Text ux:Class="mi_import_contacts" Value="&#xe0e0;" />
-	<Text ux:Class="mi_import_export" Value="&#xe0c3;" />
-	<Text ux:Class="mi_important_devices" Value="&#xe912;" />
-	<Text ux:Class="mi_inbox" Value="&#xe156;" />
-	<Text ux:Class="mi_indeterminate_check_box" Value="&#xe909;" />
-	<Text ux:Class="mi_info" Value="&#xe88e;" />
-	<Text ux:Class="mi_info_outline" Value="&#xe88f;" />
-	<Text ux:Class="mi_input" Value="&#xe890;" />
-	<Text ux:Class="mi_insert_chart" Value="&#xe24b;" />
-	<Text ux:Class="mi_insert_comment" Value="&#xe24c;" />
-	<Text ux:Class="mi_insert_drive_file" Value="&#xe24d;" />
-	<Text ux:Class="mi_insert_emoticon" Value="&#xe24e;" />
-	<Text ux:Class="mi_insert_invitation" Value="&#xe24f;" />
-	<Text ux:Class="mi_insert_link" Value="&#xe250;" />
-	<Text ux:Class="mi_insert_photo" Value="&#xe251;" />
-	<Text ux:Class="mi_invert_colors" Value="&#xe891;" />
-	<Text ux:Class="mi_invert_colors_off" Value="&#xe0c4;" />
-	<Text ux:Class="mi_iso" Value="&#xe3f6;" />
-	<Text ux:Class="mi_keyboard" Value="&#xe312;" />
-	<Text ux:Class="mi_keyboard_arrow_down" Value="&#xe313;" />
-	<Text ux:Class="mi_keyboard_arrow_left" Value="&#xe314;" />
-	<Text ux:Class="mi_keyboard_arrow_right" Value="&#xe315;" />
-	<Text ux:Class="mi_keyboard_arrow_up" Value="&#xe316;" />
-	<Text ux:Class="mi_keyboard_backspace" Value="&#xe317;" />
-	<Text ux:Class="mi_keyboard_capslock" Value="&#xe318;" />
-	<Text ux:Class="mi_keyboard_hide" Value="&#xe31a;" />
-	<Text ux:Class="mi_keyboard_return" Value="&#xe31b;" />
-	<Text ux:Class="mi_keyboard_tab" Value="&#xe31c;" />
-	<Text ux:Class="mi_keyboard_voice" Value="&#xe31d;" />
-	<Text ux:Class="mi_kitchen" Value="&#xeb47;" />
-	<Text ux:Class="mi_label" Value="&#xe892;" />
-	<Text ux:Class="mi_label_outline" Value="&#xe893;" />
-	<Text ux:Class="mi_landscape" Value="&#xe3f7;" />
-	<Text ux:Class="mi_language" Value="&#xe894;" />
-	<Text ux:Class="mi_laptop" Value="&#xe31e;" />
-	<Text ux:Class="mi_laptop_chromebook" Value="&#xe31f;" />
-	<Text ux:Class="mi_laptop_mac" Value="&#xe320;" />
-	<Text ux:Class="mi_laptop_windows" Value="&#xe321;" />
-	<Text ux:Class="mi_last_page" Value="&#xe5dd;" />
-	<Text ux:Class="mi_launch" Value="&#xe895;" />
-	<Text ux:Class="mi_layers" Value="&#xe53b;" />
-	<Text ux:Class="mi_layers_clear" Value="&#xe53c;" />
-	<Text ux:Class="mi_leak_add" Value="&#xe3f8;" />
-	<Text ux:Class="mi_leak_remove" Value="&#xe3f9;" />
-	<Text ux:Class="mi_lens" Value="&#xe3fa;" />
-	<Text ux:Class="mi_library_add" Value="&#xe02e;" />
-	<Text ux:Class="mi_library_books" Value="&#xe02f;" />
-	<Text ux:Class="mi_library_music" Value="&#xe030;" />
-	<Text ux:Class="mi_lightbulb_outline" Value="&#xe90f;" />
-	<Text ux:Class="mi_line_style" Value="&#xe919;" />
-	<Text ux:Class="mi_line_weight" Value="&#xe91a;" />
-	<Text ux:Class="mi_linear_scale" Value="&#xe260;" />
-	<Text ux:Class="mi_link" Value="&#xe157;" />
-	<Text ux:Class="mi_linked_camera" Value="&#xe438;" />
-	<Text ux:Class="mi_list" Value="&#xe896;" />
-	<Text ux:Class="mi_live_help" Value="&#xe0c6;" />
-	<Text ux:Class="mi_live_tv" Value="&#xe639;" />
-	<Text ux:Class="mi_local_activity" Value="&#xe53f;" />
-	<Text ux:Class="mi_local_airport" Value="&#xe53d;" />
-	<Text ux:Class="mi_local_atm" Value="&#xe53e;" />
-	<Text ux:Class="mi_local_bar" Value="&#xe540;" />
-	<Text ux:Class="mi_local_cafe" Value="&#xe541;" />
-	<Text ux:Class="mi_local_car_wash" Value="&#xe542;" />
-	<Text ux:Class="mi_local_convenience_store" Value="&#xe543;" />
-	<Text ux:Class="mi_local_dining" Value="&#xe556;" />
-	<Text ux:Class="mi_local_drink" Value="&#xe544;" />
-	<Text ux:Class="mi_local_florist" Value="&#xe545;" />
-	<Text ux:Class="mi_local_gas_station" Value="&#xe546;" />
-	<Text ux:Class="mi_local_grocery_store" Value="&#xe547;" />
-	<Text ux:Class="mi_local_hospital" Value="&#xe548;" />
-	<Text ux:Class="mi_local_hotel" Value="&#xe549;" />
-	<Text ux:Class="mi_local_laundry_service" Value="&#xe54a;" />
-	<Text ux:Class="mi_local_library" Value="&#xe54b;" />
-	<Text ux:Class="mi_local_mall" Value="&#xe54c;" />
-	<Text ux:Class="mi_local_movies" Value="&#xe54d;" />
-	<Text ux:Class="mi_local_offer" Value="&#xe54e;" />
-	<Text ux:Class="mi_local_parking" Value="&#xe54f;" />
-	<Text ux:Class="mi_local_pharmacy" Value="&#xe550;" />
-	<Text ux:Class="mi_local_phone" Value="&#xe551;" />
-	<Text ux:Class="mi_local_pizza" Value="&#xe552;" />
-	<Text ux:Class="mi_local_play" Value="&#xe553;" />
-	<Text ux:Class="mi_local_post_office" Value="&#xe554;" />
-	<Text ux:Class="mi_local_printshop" Value="&#xe555;" />
-	<Text ux:Class="mi_local_see" Value="&#xe557;" />
-	<Text ux:Class="mi_local_shipping" Value="&#xe558;" />
-	<Text ux:Class="mi_local_taxi" Value="&#xe559;" />
-	<Text ux:Class="mi_location_city" Value="&#xe7f1;" />
-	<Text ux:Class="mi_location_disabled" Value="&#xe1b6;" />
-	<Text ux:Class="mi_location_off" Value="&#xe0c7;" />
-	<Text ux:Class="mi_location_on" Value="&#xe0c8;" />
-	<Text ux:Class="mi_location_searching" Value="&#xe1b7;" />
-	<Text ux:Class="mi_lock" Value="&#xe897;" />
-	<Text ux:Class="mi_lock_open" Value="&#xe898;" />
-	<Text ux:Class="mi_lock_outline" Value="&#xe899;" />
-	<Text ux:Class="mi_looks" Value="&#xe3fc;" />
-	<Text ux:Class="mi_looks_3" Value="&#xe3fb;" />
-	<Text ux:Class="mi_looks_4" Value="&#xe3fd;" />
-	<Text ux:Class="mi_looks_5" Value="&#xe3fe;" />
-	<Text ux:Class="mi_looks_6" Value="&#xe3ff;" />
-	<Text ux:Class="mi_looks_one" Value="&#xe400;" />
-	<Text ux:Class="mi_looks_two" Value="&#xe401;" />
-	<Text ux:Class="mi_loop" Value="&#xe028;" />
-	<Text ux:Class="mi_loupe" Value="&#xe402;" />
-	<Text ux:Class="mi_low_priority" Value="&#xe16d;" />
-	<Text ux:Class="mi_loyalty" Value="&#xe89a;" />
-	<Text ux:Class="mi_mail" Value="&#xe158;" />
-	<Text ux:Class="mi_mail_outline" Value="&#xe0e1;" />
-	<Text ux:Class="mi_map" Value="&#xe55b;" />
-	<Text ux:Class="mi_markunread" Value="&#xe159;" />
-	<Text ux:Class="mi_markunread_mailbox" Value="&#xe89b;" />
-	<Text ux:Class="mi_memory" Value="&#xe322;" />
-	<Text ux:Class="mi_menu" Value="&#xe5d2;" />
-	<Text ux:Class="mi_merge_type" Value="&#xe252;" />
-	<Text ux:Class="mi_message" Value="&#xe0c9;" />
-	<Text ux:Class="mi_mic" Value="&#xe029;" />
-	<Text ux:Class="mi_mic_none" Value="&#xe02a;" />
-	<Text ux:Class="mi_mic_off" Value="&#xe02b;" />
-	<Text ux:Class="mi_mms" Value="&#xe618;" />
-	<Text ux:Class="mi_mode_comment" Value="&#xe253;" />
-	<Text ux:Class="mi_mode_edit" Value="&#xe254;" />
-	<Text ux:Class="mi_monetization_on" Value="&#xe263;" />
-	<Text ux:Class="mi_money_off" Value="&#xe25c;" />
-	<Text ux:Class="mi_monochrome_photos" Value="&#xe403;" />
-	<Text ux:Class="mi_mood" Value="&#xe7f2;" />
-	<Text ux:Class="mi_mood_bad" Value="&#xe7f3;" />
-	<Text ux:Class="mi_more" Value="&#xe619;" />
-	<Text ux:Class="mi_more_horiz" Value="&#xe5d3;" />
-	<Text ux:Class="mi_more_vert" Value="&#xe5d4;" />
-	<Text ux:Class="mi_motorcycle" Value="&#xe91b;" />
-	<Text ux:Class="mi_mouse" Value="&#xe323;" />
-	<Text ux:Class="mi_move_to_inbox" Value="&#xe168;" />
-	<Text ux:Class="mi_movie" Value="&#xe02c;" />
-	<Text ux:Class="mi_movie_creation" Value="&#xe404;" />
-	<Text ux:Class="mi_movie_filter" Value="&#xe43a;" />
-	<Text ux:Class="mi_multiline_chart" Value="&#xe6df;" />
-	<Text ux:Class="mi_music_note" Value="&#xe405;" />
-	<Text ux:Class="mi_music_video" Value="&#xe063;" />
-	<Text ux:Class="mi_my_location" Value="&#xe55c;" />
-	<Text ux:Class="mi_nature" Value="&#xe406;" />
-	<Text ux:Class="mi_nature_people" Value="&#xe407;" />
-	<Text ux:Class="mi_navigate_before" Value="&#xe408;" />
-	<Text ux:Class="mi_navigate_next" Value="&#xe409;" />
-	<Text ux:Class="mi_navigation" Value="&#xe55d;" />
-	<Text ux:Class="mi_near_me" Value="&#xe569;" />
-	<Text ux:Class="mi_network_cell" Value="&#xe1b9;" />
-	<Text ux:Class="mi_network_check" Value="&#xe640;" />
-	<Text ux:Class="mi_network_locked" Value="&#xe61a;" />
-	<Text ux:Class="mi_network_wifi" Value="&#xe1ba;" />
-	<Text ux:Class="mi_new_releases" Value="&#xe031;" />
-	<Text ux:Class="mi_next_week" Value="&#xe16a;" />
-	<Text ux:Class="mi_nfc" Value="&#xe1bb;" />
-	<Text ux:Class="mi_no_encryption" Value="&#xe641;" />
-	<Text ux:Class="mi_no_sim" Value="&#xe0cc;" />
-	<Text ux:Class="mi_not_interested" Value="&#xe033;" />
-	<Text ux:Class="mi_note" Value="&#xe06f;" />
-	<Text ux:Class="mi_note_add" Value="&#xe89c;" />
-	<Text ux:Class="mi_notifications" Value="&#xe7f4;" />
-	<Text ux:Class="mi_notifications_active" Value="&#xe7f7;" />
-	<Text ux:Class="mi_notifications_none" Value="&#xe7f5;" />
-	<Text ux:Class="mi_notifications_off" Value="&#xe7f6;" />
-	<Text ux:Class="mi_notifications_paused" Value="&#xe7f8;" />
-	<Text ux:Class="mi_offline_pin" Value="&#xe90a;" />
-	<Text ux:Class="mi_ondemand_video" Value="&#xe63a;" />
-	<Text ux:Class="mi_opacity" Value="&#xe91c;" />
-	<Text ux:Class="mi_open_in_browser" Value="&#xe89d;" />
-	<Text ux:Class="mi_open_in_new" Value="&#xe89e;" />
-	<Text ux:Class="mi_open_with" Value="&#xe89f;" />
-	<Text ux:Class="mi_pages" Value="&#xe7f9;" />
-	<Text ux:Class="mi_pageview" Value="&#xe8a0;" />
-	<Text ux:Class="mi_palette" Value="&#xe40a;" />
-	<Text ux:Class="mi_pan_tool" Value="&#xe925;" />
-	<Text ux:Class="mi_panorama" Value="&#xe40b;" />
-	<Text ux:Class="mi_panorama_fish_eye" Value="&#xe40c;" />
-	<Text ux:Class="mi_panorama_horizontal" Value="&#xe40d;" />
-	<Text ux:Class="mi_panorama_vertical" Value="&#xe40e;" />
-	<Text ux:Class="mi_panorama_wide_angle" Value="&#xe40f;" />
-	<Text ux:Class="mi_party_mode" Value="&#xe7fa;" />
-	<Text ux:Class="mi_pause" Value="&#xe034;" />
-	<Text ux:Class="mi_pause_circle_filled" Value="&#xe035;" />
-	<Text ux:Class="mi_pause_circle_outline" Value="&#xe036;" />
-	<Text ux:Class="mi_payment" Value="&#xe8a1;" />
-	<Text ux:Class="mi_people" Value="&#xe7fb;" />
-	<Text ux:Class="mi_people_outline" Value="&#xe7fc;" />
-	<Text ux:Class="mi_perm_camera_mic" Value="&#xe8a2;" />
-	<Text ux:Class="mi_perm_contact_calendar" Value="&#xe8a3;" />
-	<Text ux:Class="mi_perm_data_setting" Value="&#xe8a4;" />
-	<Text ux:Class="mi_perm_device_information" Value="&#xe8a5;" />
-	<Text ux:Class="mi_perm_identity" Value="&#xe8a6;" />
-	<Text ux:Class="mi_perm_media" Value="&#xe8a7;" />
-	<Text ux:Class="mi_perm_phone_msg" Value="&#xe8a8;" />
-	<Text ux:Class="mi_perm_scan_wifi" Value="&#xe8a9;" />
-	<Text ux:Class="mi_person" Value="&#xe7fd;" />
-	<Text ux:Class="mi_person_add" Value="&#xe7fe;" />
-	<Text ux:Class="mi_person_outline" Value="&#xe7ff;" />
-	<Text ux:Class="mi_person_pin" Value="&#xe55a;" />
-	<Text ux:Class="mi_person_pin_circle" Value="&#xe56a;" />
-	<Text ux:Class="mi_personal_video" Value="&#xe63b;" />
-	<Text ux:Class="mi_pets" Value="&#xe91d;" />
-	<Text ux:Class="mi_phone" Value="&#xe0cd;" />
-	<Text ux:Class="mi_phone_android" Value="&#xe324;" />
-	<Text ux:Class="mi_phone_bluetooth_speaker" Value="&#xe61b;" />
-	<Text ux:Class="mi_phone_forwarded" Value="&#xe61c;" />
-	<Text ux:Class="mi_phone_in_talk" Value="&#xe61d;" />
-	<Text ux:Class="mi_phone_iphone" Value="&#xe325;" />
-	<Text ux:Class="mi_phone_locked" Value="&#xe61e;" />
-	<Text ux:Class="mi_phone_missed" Value="&#xe61f;" />
-	<Text ux:Class="mi_phone_paused" Value="&#xe620;" />
-	<Text ux:Class="mi_phonelink" Value="&#xe326;" />
-	<Text ux:Class="mi_phonelink_erase" Value="&#xe0db;" />
-	<Text ux:Class="mi_phonelink_lock" Value="&#xe0dc;" />
-	<Text ux:Class="mi_phonelink_off" Value="&#xe327;" />
-	<Text ux:Class="mi_phonelink_ring" Value="&#xe0dd;" />
-	<Text ux:Class="mi_phonelink_setup" Value="&#xe0de;" />
-	<Text ux:Class="mi_photo" Value="&#xe410;" />
-	<Text ux:Class="mi_photo_album" Value="&#xe411;" />
-	<Text ux:Class="mi_photo_camera" Value="&#xe412;" />
-	<Text ux:Class="mi_photo_filter" Value="&#xe43b;" />
-	<Text ux:Class="mi_photo_library" Value="&#xe413;" />
-	<Text ux:Class="mi_photo_size_select_actual" Value="&#xe432;" />
-	<Text ux:Class="mi_photo_size_select_large" Value="&#xe433;" />
-	<Text ux:Class="mi_photo_size_select_small" Value="&#xe434;" />
-	<Text ux:Class="mi_picture_as_pdf" Value="&#xe415;" />
-	<Text ux:Class="mi_picture_in_picture" Value="&#xe8aa;" />
-	<Text ux:Class="mi_picture_in_picture_alt" Value="&#xe911;" />
-	<Text ux:Class="mi_pie_chart" Value="&#xe6c4;" />
-	<Text ux:Class="mi_pie_chart_outlined" Value="&#xe6c5;" />
-	<Text ux:Class="mi_pin_drop" Value="&#xe55e;" />
-	<Text ux:Class="mi_place" Value="&#xe55f;" />
-	<Text ux:Class="mi_play_arrow" Value="&#xe037;" />
-	<Text ux:Class="mi_play_circle_filled" Value="&#xe038;" />
-	<Text ux:Class="mi_play_circle_outline" Value="&#xe039;" />
-	<Text ux:Class="mi_play_for_work" Value="&#xe906;" />
-	<Text ux:Class="mi_playlist_add" Value="&#xe03b;" />
-	<Text ux:Class="mi_playlist_add_check" Value="&#xe065;" />
-	<Text ux:Class="mi_playlist_play" Value="&#xe05f;" />
-	<Text ux:Class="mi_plus_one" Value="&#xe800;" />
-	<Text ux:Class="mi_poll" Value="&#xe801;" />
-	<Text ux:Class="mi_polymer" Value="&#xe8ab;" />
-	<Text ux:Class="mi_pool" Value="&#xeb48;" />
-	<Text ux:Class="mi_portable_wifi_off" Value="&#xe0ce;" />
-	<Text ux:Class="mi_portrait" Value="&#xe416;" />
-	<Text ux:Class="mi_power" Value="&#xe63c;" />
-	<Text ux:Class="mi_power_input" Value="&#xe336;" />
-	<Text ux:Class="mi_power_settings_new" Value="&#xe8ac;" />
-	<Text ux:Class="mi_pregnant_woman" Value="&#xe91e;" />
-	<Text ux:Class="mi_present_to_all" Value="&#xe0df;" />
-	<Text ux:Class="mi_print" Value="&#xe8ad;" />
-	<Text ux:Class="mi_priority_high" Value="&#xe645;" />
-	<Text ux:Class="mi_public" Value="&#xe80b;" />
-	<Text ux:Class="mi_publish" Value="&#xe255;" />
-	<Text ux:Class="mi_query_builder" Value="&#xe8ae;" />
-	<Text ux:Class="mi_question_answer" Value="&#xe8af;" />
-	<Text ux:Class="mi_queue" Value="&#xe03c;" />
-	<Text ux:Class="mi_queue_music" Value="&#xe03d;" />
-	<Text ux:Class="mi_queue_play_next" Value="&#xe066;" />
-	<Text ux:Class="mi_radio" Value="&#xe03e;" />
-	<Text ux:Class="mi_radio_button_checked" Value="&#xe837;" />
-	<Text ux:Class="mi_radio_button_unchecked" Value="&#xe836;" />
-	<Text ux:Class="mi_rate_review" Value="&#xe560;" />
-	<Text ux:Class="mi_receipt" Value="&#xe8b0;" />
-	<Text ux:Class="mi_recent_actors" Value="&#xe03f;" />
-	<Text ux:Class="mi_record_voice_over" Value="&#xe91f;" />
-	<Text ux:Class="mi_redeem" Value="&#xe8b1;" />
-	<Text ux:Class="mi_redo" Value="&#xe15a;" />
-	<Text ux:Class="mi_refresh" Value="&#xe5d5;" />
-	<Text ux:Class="mi_remove" Value="&#xe15b;" />
-	<Text ux:Class="mi_remove_circle" Value="&#xe15c;" />
-	<Text ux:Class="mi_remove_circle_outline" Value="&#xe15d;" />
-	<Text ux:Class="mi_remove_from_queue" Value="&#xe067;" />
-	<Text ux:Class="mi_remove_red_eye" Value="&#xe417;" />
-	<Text ux:Class="mi_remove_shopping_cart" Value="&#xe928;" />
-	<Text ux:Class="mi_reorder" Value="&#xe8fe;" />
-	<Text ux:Class="mi_repeat" Value="&#xe040;" />
-	<Text ux:Class="mi_repeat_one" Value="&#xe041;" />
-	<Text ux:Class="mi_replay" Value="&#xe042;" />
-	<Text ux:Class="mi_replay_10" Value="&#xe059;" />
-	<Text ux:Class="mi_replay_30" Value="&#xe05a;" />
-	<Text ux:Class="mi_replay_5" Value="&#xe05b;" />
-	<Text ux:Class="mi_reply" Value="&#xe15e;" />
-	<Text ux:Class="mi_reply_all" Value="&#xe15f;" />
-	<Text ux:Class="mi_report" Value="&#xe160;" />
-	<Text ux:Class="mi_report_problem" Value="&#xe8b2;" />
-	<Text ux:Class="mi_restaurant" Value="&#xe56c;" />
-	<Text ux:Class="mi_restaurant_menu" Value="&#xe561;" />
-	<Text ux:Class="mi_restore" Value="&#xe8b3;" />
-	<Text ux:Class="mi_restore_page" Value="&#xe929;" />
-	<Text ux:Class="mi_ring_volume" Value="&#xe0d1;" />
-	<Text ux:Class="mi_room" Value="&#xe8b4;" />
-	<Text ux:Class="mi_room_service" Value="&#xeb49;" />
-	<Text ux:Class="mi_rotate_90_degrees_ccw" Value="&#xe418;" />
-	<Text ux:Class="mi_rotate_left" Value="&#xe419;" />
-	<Text ux:Class="mi_rotate_right" Value="&#xe41a;" />
-	<Text ux:Class="mi_rounded_corner" Value="&#xe920;" />
-	<Text ux:Class="mi_router" Value="&#xe328;" />
-	<Text ux:Class="mi_rowing" Value="&#xe921;" />
-	<Text ux:Class="mi_rss_feed" Value="&#xe0e5;" />
-	<Text ux:Class="mi_rv_hookup" Value="&#xe642;" />
-	<Text ux:Class="mi_satellite" Value="&#xe562;" />
-	<Text ux:Class="mi_save" Value="&#xe161;" />
-	<Text ux:Class="mi_scanner" Value="&#xe329;" />
-	<Text ux:Class="mi_schedule" Value="&#xe8b5;" />
-	<Text ux:Class="mi_school" Value="&#xe80c;" />
-	<Text ux:Class="mi_screen_lock_landscape" Value="&#xe1be;" />
-	<Text ux:Class="mi_screen_lock_portrait" Value="&#xe1bf;" />
-	<Text ux:Class="mi_screen_lock_rotation" Value="&#xe1c0;" />
-	<Text ux:Class="mi_screen_rotation" Value="&#xe1c1;" />
-	<Text ux:Class="mi_screen_share" Value="&#xe0e2;" />
-	<Text ux:Class="mi_sd_card" Value="&#xe623;" />
-	<Text ux:Class="mi_sd_storage" Value="&#xe1c2;" />
-	<Text ux:Class="mi_search" Value="&#xe8b6;" />
-	<Text ux:Class="mi_security" Value="&#xe32a;" />
-	<Text ux:Class="mi_select_all" Value="&#xe162;" />
-	<Text ux:Class="mi_send" Value="&#xe163;" />
-	<Text ux:Class="mi_sentiment_dissatisfied" Value="&#xe811;" />
-	<Text ux:Class="mi_sentiment_neutral" Value="&#xe812;" />
-	<Text ux:Class="mi_sentiment_satisfied" Value="&#xe813;" />
-	<Text ux:Class="mi_sentiment_very_dissatisfied" Value="&#xe814;" />
-	<Text ux:Class="mi_sentiment_very_satisfied" Value="&#xe815;" />
-	<Text ux:Class="mi_settings" Value="&#xe8b8;" />
-	<Text ux:Class="mi_settings_applications" Value="&#xe8b9;" />
-	<Text ux:Class="mi_settings_backup_restore" Value="&#xe8ba;" />
-	<Text ux:Class="mi_settings_bluetooth" Value="&#xe8bb;" />
-	<Text ux:Class="mi_settings_brightness" Value="&#xe8bd;" />
-	<Text ux:Class="mi_settings_cell" Value="&#xe8bc;" />
-	<Text ux:Class="mi_settings_ethernet" Value="&#xe8be;" />
-	<Text ux:Class="mi_settings_input_antenna" Value="&#xe8bf;" />
-	<Text ux:Class="mi_settings_input_component" Value="&#xe8c0;" />
-	<Text ux:Class="mi_settings_input_composite" Value="&#xe8c1;" />
-	<Text ux:Class="mi_settings_input_hdmi" Value="&#xe8c2;" />
-	<Text ux:Class="mi_settings_input_svideo" Value="&#xe8c3;" />
-	<Text ux:Class="mi_settings_overscan" Value="&#xe8c4;" />
-	<Text ux:Class="mi_settings_phone" Value="&#xe8c5;" />
-	<Text ux:Class="mi_settings_power" Value="&#xe8c6;" />
-	<Text ux:Class="mi_settings_remote" Value="&#xe8c7;" />
-	<Text ux:Class="mi_settings_system_daydream" Value="&#xe1c3;" />
-	<Text ux:Class="mi_settings_voice" Value="&#xe8c8;" />
-	<Text ux:Class="mi_share" Value="&#xe80d;" />
-	<Text ux:Class="mi_shop" Value="&#xe8c9;" />
-	<Text ux:Class="mi_shop_two" Value="&#xe8ca;" />
-	<Text ux:Class="mi_shopping_basket" Value="&#xe8cb;" />
-	<Text ux:Class="mi_shopping_cart" Value="&#xe8cc;" />
-	<Text ux:Class="mi_short_text" Value="&#xe261;" />
-	<Text ux:Class="mi_show_chart" Value="&#xe6e1;" />
-	<Text ux:Class="mi_shuffle" Value="&#xe043;" />
-	<Text ux:Class="mi_signal_cellular_4_bar" Value="&#xe1c8;" />
-	<Text ux:Class="mi_signal_cellular_connected_no_internet_4_bar" Value="&#xe1cd;" />
-	<Text ux:Class="mi_signal_cellular_no_sim" Value="&#xe1ce;" />
-	<Text ux:Class="mi_signal_cellular_null" Value="&#xe1cf;" />
-	<Text ux:Class="mi_signal_cellular_off" Value="&#xe1d0;" />
-	<Text ux:Class="mi_signal_wifi_4_bar" Value="&#xe1d8;" />
-	<Text ux:Class="mi_signal_wifi_4_bar_lock" Value="&#xe1d9;" />
-	<Text ux:Class="mi_signal_wifi_off" Value="&#xe1da;" />
-	<Text ux:Class="mi_sim_card" Value="&#xe32b;" />
-	<Text ux:Class="mi_sim_card_alert" Value="&#xe624;" />
-	<Text ux:Class="mi_skip_next" Value="&#xe044;" />
-	<Text ux:Class="mi_skip_previous" Value="&#xe045;" />
-	<Text ux:Class="mi_slideshow" Value="&#xe41b;" />
-	<Text ux:Class="mi_slow_motion_video" Value="&#xe068;" />
-	<Text ux:Class="mi_smartphone" Value="&#xe32c;" />
-	<Text ux:Class="mi_smoke_free" Value="&#xeb4a;" />
-	<Text ux:Class="mi_smoking_rooms" Value="&#xeb4b;" />
-	<Text ux:Class="mi_sms" Value="&#xe625;" />
-	<Text ux:Class="mi_sms_failed" Value="&#xe626;" />
-	<Text ux:Class="mi_snooze" Value="&#xe046;" />
-	<Text ux:Class="mi_sort" Value="&#xe164;" />
-	<Text ux:Class="mi_sort_by_alpha" Value="&#xe053;" />
-	<Text ux:Class="mi_spa" Value="&#xeb4c;" />
-	<Text ux:Class="mi_space_bar" Value="&#xe256;" />
-	<Text ux:Class="mi_speaker" Value="&#xe32d;" />
-	<Text ux:Class="mi_speaker_group" Value="&#xe32e;" />
-	<Text ux:Class="mi_speaker_notes" Value="&#xe8cd;" />
-	<Text ux:Class="mi_speaker_notes_off" Value="&#xe92a;" />
-	<Text ux:Class="mi_speaker_phone" Value="&#xe0d2;" />
-	<Text ux:Class="mi_spellcheck" Value="&#xe8ce;" />
-	<Text ux:Class="mi_star" Value="&#xe838;" />
-	<Text ux:Class="mi_star_border" Value="&#xe83a;" />
-	<Text ux:Class="mi_star_half" Value="&#xe839;" />
-	<Text ux:Class="mi_stars" Value="&#xe8d0;" />
-	<Text ux:Class="mi_stay_current_landscape" Value="&#xe0d3;" />
-	<Text ux:Class="mi_stay_current_portrait" Value="&#xe0d4;" />
-	<Text ux:Class="mi_stay_primary_landscape" Value="&#xe0d5;" />
-	<Text ux:Class="mi_stay_primary_portrait" Value="&#xe0d6;" />
-	<Text ux:Class="mi_stop" Value="&#xe047;" />
-	<Text ux:Class="mi_stop_screen_share" Value="&#xe0e3;" />
-	<Text ux:Class="mi_storage" Value="&#xe1db;" />
-	<Text ux:Class="mi_store" Value="&#xe8d1;" />
-	<Text ux:Class="mi_store_mall_directory" Value="&#xe563;" />
-	<Text ux:Class="mi_straighten" Value="&#xe41c;" />
-	<Text ux:Class="mi_streetview" Value="&#xe56e;" />
-	<Text ux:Class="mi_strikethrough_s" Value="&#xe257;" />
-	<Text ux:Class="mi_style" Value="&#xe41d;" />
-	<Text ux:Class="mi_subdirectory_arrow_left" Value="&#xe5d9;" />
-	<Text ux:Class="mi_subdirectory_arrow_right" Value="&#xe5da;" />
-	<Text ux:Class="mi_subject" Value="&#xe8d2;" />
-	<Text ux:Class="mi_subscriptions" Value="&#xe064;" />
-	<Text ux:Class="mi_subtitles" Value="&#xe048;" />
-	<Text ux:Class="mi_subway" Value="&#xe56f;" />
-	<Text ux:Class="mi_supervisor_account" Value="&#xe8d3;" />
-	<Text ux:Class="mi_surround_sound" Value="&#xe049;" />
-	<Text ux:Class="mi_swap_calls" Value="&#xe0d7;" />
-	<Text ux:Class="mi_swap_horiz" Value="&#xe8d4;" />
-	<Text ux:Class="mi_swap_vert" Value="&#xe8d5;" />
-	<Text ux:Class="mi_swap_vertical_circle" Value="&#xe8d6;" />
-	<Text ux:Class="mi_switch_camera" Value="&#xe41e;" />
-	<Text ux:Class="mi_switch_video" Value="&#xe41f;" />
-	<Text ux:Class="mi_sync" Value="&#xe627;" />
-	<Text ux:Class="mi_sync_disabled" Value="&#xe628;" />
-	<Text ux:Class="mi_sync_problem" Value="&#xe629;" />
-	<Text ux:Class="mi_system_update" Value="&#xe62a;" />
-	<Text ux:Class="mi_system_update_alt" Value="&#xe8d7;" />
-	<Text ux:Class="mi_tab" Value="&#xe8d8;" />
-	<Text ux:Class="mi_tab_unselected" Value="&#xe8d9;" />
-	<Text ux:Class="mi_tablet" Value="&#xe32f;" />
-	<Text ux:Class="mi_tablet_android" Value="&#xe330;" />
-	<Text ux:Class="mi_tablet_mac" Value="&#xe331;" />
-	<Text ux:Class="mi_tag_faces" Value="&#xe420;" />
-	<Text ux:Class="mi_tap_and_play" Value="&#xe62b;" />
-	<Text ux:Class="mi_terrain" Value="&#xe564;" />
-	<Text ux:Class="mi_text_fields" Value="&#xe262;" />
-	<Text ux:Class="mi_text_format" Value="&#xe165;" />
-	<Text ux:Class="mi_textsms" Value="&#xe0d8;" />
-	<Text ux:Class="mi_texture" Value="&#xe421;" />
-	<Text ux:Class="mi_theaters" Value="&#xe8da;" />
-	<Text ux:Class="mi_thumb_down" Value="&#xe8db;" />
-	<Text ux:Class="mi_thumb_up" Value="&#xe8dc;" />
-	<Text ux:Class="mi_thumbs_up_down" Value="&#xe8dd;" />
-	<Text ux:Class="mi_time_to_leave" Value="&#xe62c;" />
-	<Text ux:Class="mi_timelapse" Value="&#xe422;" />
-	<Text ux:Class="mi_timeline" Value="&#xe922;" />
-	<Text ux:Class="mi_timer" Value="&#xe425;" />
-	<Text ux:Class="mi_timer_10" Value="&#xe423;" />
-	<Text ux:Class="mi_timer_3" Value="&#xe424;" />
-	<Text ux:Class="mi_timer_off" Value="&#xe426;" />
-	<Text ux:Class="mi_title" Value="&#xe264;" />
-	<Text ux:Class="mi_toc" Value="&#xe8de;" />
-	<Text ux:Class="mi_today" Value="&#xe8df;" />
-	<Text ux:Class="mi_toll" Value="&#xe8e0;" />
-	<Text ux:Class="mi_tonality" Value="&#xe427;" />
-	<Text ux:Class="mi_touch_app" Value="&#xe913;" />
-	<Text ux:Class="mi_toys" Value="&#xe332;" />
-	<Text ux:Class="mi_track_changes" Value="&#xe8e1;" />
-	<Text ux:Class="mi_traffic" Value="&#xe565;" />
-	<Text ux:Class="mi_train" Value="&#xe570;" />
-	<Text ux:Class="mi_tram" Value="&#xe571;" />
-	<Text ux:Class="mi_transfer_within_a_station" Value="&#xe572;" />
-	<Text ux:Class="mi_transform" Value="&#xe428;" />
-	<Text ux:Class="mi_translate" Value="&#xe8e2;" />
-	<Text ux:Class="mi_trending_down" Value="&#xe8e3;" />
-	<Text ux:Class="mi_trending_flat" Value="&#xe8e4;" />
-	<Text ux:Class="mi_trending_up" Value="&#xe8e5;" />
-	<Text ux:Class="mi_tune" Value="&#xe429;" />
-	<Text ux:Class="mi_turned_in" Value="&#xe8e6;" />
-	<Text ux:Class="mi_turned_in_not" Value="&#xe8e7;" />
-	<Text ux:Class="mi_tv" Value="&#xe333;" />
-	<Text ux:Class="mi_unarchive" Value="&#xe169;" />
-	<Text ux:Class="mi_undo" Value="&#xe166;" />
-	<Text ux:Class="mi_unfold_less" Value="&#xe5d6;" />
-	<Text ux:Class="mi_unfold_more" Value="&#xe5d7;" />
-	<Text ux:Class="mi_update" Value="&#xe923;" />
-	<Text ux:Class="mi_usb" Value="&#xe1e0;" />
-	<Text ux:Class="mi_verified_user" Value="&#xe8e8;" />
-	<Text ux:Class="mi_vertical_align_bottom" Value="&#xe258;" />
-	<Text ux:Class="mi_vertical_align_center" Value="&#xe259;" />
-	<Text ux:Class="mi_vertical_align_top" Value="&#xe25a;" />
-	<Text ux:Class="mi_vibration" Value="&#xe62d;" />
-	<Text ux:Class="mi_video_call" Value="&#xe070;" />
-	<Text ux:Class="mi_video_label" Value="&#xe071;" />
-	<Text ux:Class="mi_video_library" Value="&#xe04a;" />
-	<Text ux:Class="mi_videocam" Value="&#xe04b;" />
-	<Text ux:Class="mi_videocam_off" Value="&#xe04c;" />
-	<Text ux:Class="mi_videogame_asset" Value="&#xe338;" />
-	<Text ux:Class="mi_view_agenda" Value="&#xe8e9;" />
-	<Text ux:Class="mi_view_array" Value="&#xe8ea;" />
-	<Text ux:Class="mi_view_carousel" Value="&#xe8eb;" />
-	<Text ux:Class="mi_view_column" Value="&#xe8ec;" />
-	<Text ux:Class="mi_view_comfy" Value="&#xe42a;" />
-	<Text ux:Class="mi_view_compact" Value="&#xe42b;" />
-	<Text ux:Class="mi_view_day" Value="&#xe8ed;" />
-	<Text ux:Class="mi_view_headline" Value="&#xe8ee;" />
-	<Text ux:Class="mi_view_list" Value="&#xe8ef;" />
-	<Text ux:Class="mi_view_module" Value="&#xe8f0;" />
-	<Text ux:Class="mi_view_quilt" Value="&#xe8f1;" />
-	<Text ux:Class="mi_view_stream" Value="&#xe8f2;" />
-	<Text ux:Class="mi_view_week" Value="&#xe8f3;" />
-	<Text ux:Class="mi_vignette" Value="&#xe435;" />
-	<Text ux:Class="mi_visibility" Value="&#xe8f4;" />
-	<Text ux:Class="mi_visibility_off" Value="&#xe8f5;" />
-	<Text ux:Class="mi_voice_chat" Value="&#xe62e;" />
-	<Text ux:Class="mi_voicemail" Value="&#xe0d9;" />
-	<Text ux:Class="mi_volume_down" Value="&#xe04d;" />
-	<Text ux:Class="mi_volume_mute" Value="&#xe04e;" />
-	<Text ux:Class="mi_volume_off" Value="&#xe04f;" />
-	<Text ux:Class="mi_volume_up" Value="&#xe050;" />
-	<Text ux:Class="mi_vpn_key" Value="&#xe0da;" />
-	<Text ux:Class="mi_vpn_lock" Value="&#xe62f;" />
-	<Text ux:Class="mi_wallpaper" Value="&#xe1bc;" />
-	<Text ux:Class="mi_warning" Value="&#xe002;" />
-	<Text ux:Class="mi_watch" Value="&#xe334;" />
-	<Text ux:Class="mi_watch_later" Value="&#xe924;" />
-	<Text ux:Class="mi_wb_auto" Value="&#xe42c;" />
-	<Text ux:Class="mi_wb_cloudy" Value="&#xe42d;" />
-	<Text ux:Class="mi_wb_incandescent" Value="&#xe42e;" />
-	<Text ux:Class="mi_wb_iridescent" Value="&#xe436;" />
-	<Text ux:Class="mi_wb_sunny" Value="&#xe430;" />
-	<Text ux:Class="mi_wc" Value="&#xe63d;" />
-	<Text ux:Class="mi_web" Value="&#xe051;" />
-	<Text ux:Class="mi_web_asset" Value="&#xe069;" />
-	<Text ux:Class="mi_weekend" Value="&#xe16b;" />
-	<Text ux:Class="mi_whatshot" Value="&#xe80e;" />
-	<Text ux:Class="mi_widgets" Value="&#xe1bd;" />
-	<Text ux:Class="mi_wifi" Value="&#xe63e;" />
-	<Text ux:Class="mi_wifi_lock" Value="&#xe1e1;" />
-	<Text ux:Class="mi_wifi_tethering" Value="&#xe1e2;" />
-	<Text ux:Class="mi_work" Value="&#xe8f9;" />
-	<Text ux:Class="mi_wrap_text" Value="&#xe25b;" />
-	<Text ux:Class="mi_youtube_searched_for" Value="&#xe8fa;" />
-	<Text ux:Class="mi_zoom_in" Value="&#xe8ff;" />
-	<Text ux:Class="mi_zoom_out" Value="&#xe900;" />
-	<Text ux:Class="mi_zoom_out_map" Value="&#xe56b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_3d_rotation" Value="&#xe84d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_ac_unit" Value="&#xeb3b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_access_alarm" Value="&#xe190;" />
+	<Text Font="MaterialIcons" ux:Class="mi_access_alarms" Value="&#xe191;" />
+	<Text Font="MaterialIcons" ux:Class="mi_access_time" Value="&#xe192;" />
+	<Text Font="MaterialIcons" ux:Class="mi_accessibility" Value="&#xe84e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_accessible" Value="&#xe914;" />
+	<Text Font="MaterialIcons" ux:Class="mi_account_balance" Value="&#xe84f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_account_balance_wallet" Value="&#xe850;" />
+	<Text Font="MaterialIcons" ux:Class="mi_account_box" Value="&#xe851;" />
+	<Text Font="MaterialIcons" ux:Class="mi_account_circle" Value="&#xe853;" />
+	<Text Font="MaterialIcons" ux:Class="mi_adb" Value="&#xe60e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_add" Value="&#xe145;" />
+	<Text Font="MaterialIcons" ux:Class="mi_add_a_photo" Value="&#xe439;" />
+	<Text Font="MaterialIcons" ux:Class="mi_add_alarm" Value="&#xe193;" />
+	<Text Font="MaterialIcons" ux:Class="mi_add_alert" Value="&#xe003;" />
+	<Text Font="MaterialIcons" ux:Class="mi_add_box" Value="&#xe146;" />
+	<Text Font="MaterialIcons" ux:Class="mi_add_circle" Value="&#xe147;" />
+	<Text Font="MaterialIcons" ux:Class="mi_add_circle_outline" Value="&#xe148;" />
+	<Text Font="MaterialIcons" ux:Class="mi_add_location" Value="&#xe567;" />
+	<Text Font="MaterialIcons" ux:Class="mi_add_shopping_cart" Value="&#xe854;" />
+	<Text Font="MaterialIcons" ux:Class="mi_add_to_photos" Value="&#xe39d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_add_to_queue" Value="&#xe05c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_adjust" Value="&#xe39e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_airline_seat_flat" Value="&#xe630;" />
+	<Text Font="MaterialIcons" ux:Class="mi_airline_seat_flat_angled" Value="&#xe631;" />
+	<Text Font="MaterialIcons" ux:Class="mi_airline_seat_individual_suite" Value="&#xe632;" />
+	<Text Font="MaterialIcons" ux:Class="mi_airline_seat_legroom_extra" Value="&#xe633;" />
+	<Text Font="MaterialIcons" ux:Class="mi_airline_seat_legroom_normal" Value="&#xe634;" />
+	<Text Font="MaterialIcons" ux:Class="mi_airline_seat_legroom_reduced" Value="&#xe635;" />
+	<Text Font="MaterialIcons" ux:Class="mi_airline_seat_recline_extra" Value="&#xe636;" />
+	<Text Font="MaterialIcons" ux:Class="mi_airline_seat_recline_normal" Value="&#xe637;" />
+	<Text Font="MaterialIcons" ux:Class="mi_airplanemode_active" Value="&#xe195;" />
+	<Text Font="MaterialIcons" ux:Class="mi_airplanemode_inactive" Value="&#xe194;" />
+	<Text Font="MaterialIcons" ux:Class="mi_airplay" Value="&#xe055;" />
+	<Text Font="MaterialIcons" ux:Class="mi_airport_shuttle" Value="&#xeb3c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_alarm" Value="&#xe855;" />
+	<Text Font="MaterialIcons" ux:Class="mi_alarm_add" Value="&#xe856;" />
+	<Text Font="MaterialIcons" ux:Class="mi_alarm_off" Value="&#xe857;" />
+	<Text Font="MaterialIcons" ux:Class="mi_alarm_on" Value="&#xe858;" />
+	<Text Font="MaterialIcons" ux:Class="mi_album" Value="&#xe019;" />
+	<Text Font="MaterialIcons" ux:Class="mi_all_inclusive" Value="&#xeb3d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_all_out" Value="&#xe90b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_android" Value="&#xe859;" />
+	<Text Font="MaterialIcons" ux:Class="mi_announcement" Value="&#xe85a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_apps" Value="&#xe5c3;" />
+	<Text Font="MaterialIcons" ux:Class="mi_archive" Value="&#xe149;" />
+	<Text Font="MaterialIcons" ux:Class="mi_arrow_back" Value="&#xe5c4;" />
+	<Text Font="MaterialIcons" ux:Class="mi_arrow_downward" Value="&#xe5db;" />
+	<Text Font="MaterialIcons" ux:Class="mi_arrow_drop_down" Value="&#xe5c5;" />
+	<Text Font="MaterialIcons" ux:Class="mi_arrow_drop_down_circle" Value="&#xe5c6;" />
+	<Text Font="MaterialIcons" ux:Class="mi_arrow_drop_up" Value="&#xe5c7;" />
+	<Text Font="MaterialIcons" ux:Class="mi_arrow_forward" Value="&#xe5c8;" />
+	<Text Font="MaterialIcons" ux:Class="mi_arrow_upward" Value="&#xe5d8;" />
+	<Text Font="MaterialIcons" ux:Class="mi_art_track" Value="&#xe060;" />
+	<Text Font="MaterialIcons" ux:Class="mi_aspect_ratio" Value="&#xe85b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_assessment" Value="&#xe85c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_assignment" Value="&#xe85d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_assignment_ind" Value="&#xe85e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_assignment_late" Value="&#xe85f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_assignment_return" Value="&#xe860;" />
+	<Text Font="MaterialIcons" ux:Class="mi_assignment_returned" Value="&#xe861;" />
+	<Text Font="MaterialIcons" ux:Class="mi_assignment_turned_in" Value="&#xe862;" />
+	<Text Font="MaterialIcons" ux:Class="mi_assistant" Value="&#xe39f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_assistant_photo" Value="&#xe3a0;" />
+	<Text Font="MaterialIcons" ux:Class="mi_attach_file" Value="&#xe226;" />
+	<Text Font="MaterialIcons" ux:Class="mi_attach_money" Value="&#xe227;" />
+	<Text Font="MaterialIcons" ux:Class="mi_attachment" Value="&#xe2bc;" />
+	<Text Font="MaterialIcons" ux:Class="mi_audiotrack" Value="&#xe3a1;" />
+	<Text Font="MaterialIcons" ux:Class="mi_autorenew" Value="&#xe863;" />
+	<Text Font="MaterialIcons" ux:Class="mi_av_timer" Value="&#xe01b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_backspace" Value="&#xe14a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_backup" Value="&#xe864;" />
+	<Text Font="MaterialIcons" ux:Class="mi_battery_alert" Value="&#xe19c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_battery_charging_full" Value="&#xe1a3;" />
+	<Text Font="MaterialIcons" ux:Class="mi_battery_full" Value="&#xe1a4;" />
+	<Text Font="MaterialIcons" ux:Class="mi_battery_std" Value="&#xe1a5;" />
+	<Text Font="MaterialIcons" ux:Class="mi_battery_unknown" Value="&#xe1a6;" />
+	<Text Font="MaterialIcons" ux:Class="mi_beach_access" Value="&#xeb3e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_beenhere" Value="&#xe52d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_block" Value="&#xe14b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_bluetooth" Value="&#xe1a7;" />
+	<Text Font="MaterialIcons" ux:Class="mi_bluetooth_audio" Value="&#xe60f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_bluetooth_connected" Value="&#xe1a8;" />
+	<Text Font="MaterialIcons" ux:Class="mi_bluetooth_disabled" Value="&#xe1a9;" />
+	<Text Font="MaterialIcons" ux:Class="mi_bluetooth_searching" Value="&#xe1aa;" />
+	<Text Font="MaterialIcons" ux:Class="mi_blur_circular" Value="&#xe3a2;" />
+	<Text Font="MaterialIcons" ux:Class="mi_blur_linear" Value="&#xe3a3;" />
+	<Text Font="MaterialIcons" ux:Class="mi_blur_off" Value="&#xe3a4;" />
+	<Text Font="MaterialIcons" ux:Class="mi_blur_on" Value="&#xe3a5;" />
+	<Text Font="MaterialIcons" ux:Class="mi_book" Value="&#xe865;" />
+	<Text Font="MaterialIcons" ux:Class="mi_bookmark" Value="&#xe866;" />
+	<Text Font="MaterialIcons" ux:Class="mi_bookmark_border" Value="&#xe867;" />
+	<Text Font="MaterialIcons" ux:Class="mi_border_all" Value="&#xe228;" />
+	<Text Font="MaterialIcons" ux:Class="mi_border_bottom" Value="&#xe229;" />
+	<Text Font="MaterialIcons" ux:Class="mi_border_clear" Value="&#xe22a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_border_color" Value="&#xe22b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_border_horizontal" Value="&#xe22c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_border_inner" Value="&#xe22d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_border_left" Value="&#xe22e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_border_outer" Value="&#xe22f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_border_right" Value="&#xe230;" />
+	<Text Font="MaterialIcons" ux:Class="mi_border_style" Value="&#xe231;" />
+	<Text Font="MaterialIcons" ux:Class="mi_border_top" Value="&#xe232;" />
+	<Text Font="MaterialIcons" ux:Class="mi_border_vertical" Value="&#xe233;" />
+	<Text Font="MaterialIcons" ux:Class="mi_branding_watermark" Value="&#xe06b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_brightness_1" Value="&#xe3a6;" />
+	<Text Font="MaterialIcons" ux:Class="mi_brightness_2" Value="&#xe3a7;" />
+	<Text Font="MaterialIcons" ux:Class="mi_brightness_3" Value="&#xe3a8;" />
+	<Text Font="MaterialIcons" ux:Class="mi_brightness_4" Value="&#xe3a9;" />
+	<Text Font="MaterialIcons" ux:Class="mi_brightness_5" Value="&#xe3aa;" />
+	<Text Font="MaterialIcons" ux:Class="mi_brightness_6" Value="&#xe3ab;" />
+	<Text Font="MaterialIcons" ux:Class="mi_brightness_7" Value="&#xe3ac;" />
+	<Text Font="MaterialIcons" ux:Class="mi_brightness_auto" Value="&#xe1ab;" />
+	<Text Font="MaterialIcons" ux:Class="mi_brightness_high" Value="&#xe1ac;" />
+	<Text Font="MaterialIcons" ux:Class="mi_brightness_low" Value="&#xe1ad;" />
+	<Text Font="MaterialIcons" ux:Class="mi_brightness_medium" Value="&#xe1ae;" />
+	<Text Font="MaterialIcons" ux:Class="mi_broken_image" Value="&#xe3ad;" />
+	<Text Font="MaterialIcons" ux:Class="mi_brush" Value="&#xe3ae;" />
+	<Text Font="MaterialIcons" ux:Class="mi_bubble_chart" Value="&#xe6dd;" />
+	<Text Font="MaterialIcons" ux:Class="mi_bug_report" Value="&#xe868;" />
+	<Text Font="MaterialIcons" ux:Class="mi_build" Value="&#xe869;" />
+	<Text Font="MaterialIcons" ux:Class="mi_burst_mode" Value="&#xe43c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_business" Value="&#xe0af;" />
+	<Text Font="MaterialIcons" ux:Class="mi_business_center" Value="&#xeb3f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_cached" Value="&#xe86a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_cake" Value="&#xe7e9;" />
+	<Text Font="MaterialIcons" ux:Class="mi_call" Value="&#xe0b0;" />
+	<Text Font="MaterialIcons" ux:Class="mi_call_end" Value="&#xe0b1;" />
+	<Text Font="MaterialIcons" ux:Class="mi_call_made" Value="&#xe0b2;" />
+	<Text Font="MaterialIcons" ux:Class="mi_call_merge" Value="&#xe0b3;" />
+	<Text Font="MaterialIcons" ux:Class="mi_call_missed" Value="&#xe0b4;" />
+	<Text Font="MaterialIcons" ux:Class="mi_call_missed_outgoing" Value="&#xe0e4;" />
+	<Text Font="MaterialIcons" ux:Class="mi_call_received" Value="&#xe0b5;" />
+	<Text Font="MaterialIcons" ux:Class="mi_call_split" Value="&#xe0b6;" />
+	<Text Font="MaterialIcons" ux:Class="mi_call_to_action" Value="&#xe06c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_camera" Value="&#xe3af;" />
+	<Text Font="MaterialIcons" ux:Class="mi_camera_alt" Value="&#xe3b0;" />
+	<Text Font="MaterialIcons" ux:Class="mi_camera_enhance" Value="&#xe8fc;" />
+	<Text Font="MaterialIcons" ux:Class="mi_camera_front" Value="&#xe3b1;" />
+	<Text Font="MaterialIcons" ux:Class="mi_camera_rear" Value="&#xe3b2;" />
+	<Text Font="MaterialIcons" ux:Class="mi_camera_roll" Value="&#xe3b3;" />
+	<Text Font="MaterialIcons" ux:Class="mi_cancel" Value="&#xe5c9;" />
+	<Text Font="MaterialIcons" ux:Class="mi_card_giftcard" Value="&#xe8f6;" />
+	<Text Font="MaterialIcons" ux:Class="mi_card_membership" Value="&#xe8f7;" />
+	<Text Font="MaterialIcons" ux:Class="mi_card_travel" Value="&#xe8f8;" />
+	<Text Font="MaterialIcons" ux:Class="mi_casino" Value="&#xeb40;" />
+	<Text Font="MaterialIcons" ux:Class="mi_cast" Value="&#xe307;" />
+	<Text Font="MaterialIcons" ux:Class="mi_cast_connected" Value="&#xe308;" />
+	<Text Font="MaterialIcons" ux:Class="mi_center_focus_strong" Value="&#xe3b4;" />
+	<Text Font="MaterialIcons" ux:Class="mi_center_focus_weak" Value="&#xe3b5;" />
+	<Text Font="MaterialIcons" ux:Class="mi_change_history" Value="&#xe86b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_chat" Value="&#xe0b7;" />
+	<Text Font="MaterialIcons" ux:Class="mi_chat_bubble" Value="&#xe0ca;" />
+	<Text Font="MaterialIcons" ux:Class="mi_chat_bubble_outline" Value="&#xe0cb;" />
+	<Text Font="MaterialIcons" ux:Class="mi_check" Value="&#xe5ca;" />
+	<Text Font="MaterialIcons" ux:Class="mi_check_box" Value="&#xe834;" />
+	<Text Font="MaterialIcons" ux:Class="mi_check_box_outline_blank" Value="&#xe835;" />
+	<Text Font="MaterialIcons" ux:Class="mi_check_circle" Value="&#xe86c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_chevron_left" Value="&#xe5cb;" />
+	<Text Font="MaterialIcons" ux:Class="mi_chevron_right" Value="&#xe5cc;" />
+	<Text Font="MaterialIcons" ux:Class="mi_child_care" Value="&#xeb41;" />
+	<Text Font="MaterialIcons" ux:Class="mi_child_friendly" Value="&#xeb42;" />
+	<Text Font="MaterialIcons" ux:Class="mi_chrome_reader_mode" Value="&#xe86d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_class" Value="&#xe86e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_clear" Value="&#xe14c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_clear_all" Value="&#xe0b8;" />
+	<Text Font="MaterialIcons" ux:Class="mi_close" Value="&#xe5cd;" />
+	<Text Font="MaterialIcons" ux:Class="mi_closed_caption" Value="&#xe01c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_cloud" Value="&#xe2bd;" />
+	<Text Font="MaterialIcons" ux:Class="mi_cloud_circle" Value="&#xe2be;" />
+	<Text Font="MaterialIcons" ux:Class="mi_cloud_done" Value="&#xe2bf;" />
+	<Text Font="MaterialIcons" ux:Class="mi_cloud_download" Value="&#xe2c0;" />
+	<Text Font="MaterialIcons" ux:Class="mi_cloud_off" Value="&#xe2c1;" />
+	<Text Font="MaterialIcons" ux:Class="mi_cloud_queue" Value="&#xe2c2;" />
+	<Text Font="MaterialIcons" ux:Class="mi_cloud_upload" Value="&#xe2c3;" />
+	<Text Font="MaterialIcons" ux:Class="mi_code" Value="&#xe86f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_collections" Value="&#xe3b6;" />
+	<Text Font="MaterialIcons" ux:Class="mi_collections_bookmark" Value="&#xe431;" />
+	<Text Font="MaterialIcons" ux:Class="mi_color_lens" Value="&#xe3b7;" />
+	<Text Font="MaterialIcons" ux:Class="mi_colorize" Value="&#xe3b8;" />
+	<Text Font="MaterialIcons" ux:Class="mi_comment" Value="&#xe0b9;" />
+	<Text Font="MaterialIcons" ux:Class="mi_compare" Value="&#xe3b9;" />
+	<Text Font="MaterialIcons" ux:Class="mi_compare_arrows" Value="&#xe915;" />
+	<Text Font="MaterialIcons" ux:Class="mi_computer" Value="&#xe30a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_confirmation_number" Value="&#xe638;" />
+	<Text Font="MaterialIcons" ux:Class="mi_contact_mail" Value="&#xe0d0;" />
+	<Text Font="MaterialIcons" ux:Class="mi_contact_phone" Value="&#xe0cf;" />
+	<Text Font="MaterialIcons" ux:Class="mi_contacts" Value="&#xe0ba;" />
+	<Text Font="MaterialIcons" ux:Class="mi_content_copy" Value="&#xe14d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_content_cut" Value="&#xe14e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_content_paste" Value="&#xe14f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_control_point" Value="&#xe3ba;" />
+	<Text Font="MaterialIcons" ux:Class="mi_control_point_duplicate" Value="&#xe3bb;" />
+	<Text Font="MaterialIcons" ux:Class="mi_copyright" Value="&#xe90c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_create" Value="&#xe150;" />
+	<Text Font="MaterialIcons" ux:Class="mi_create_new_folder" Value="&#xe2cc;" />
+	<Text Font="MaterialIcons" ux:Class="mi_credit_card" Value="&#xe870;" />
+	<Text Font="MaterialIcons" ux:Class="mi_crop" Value="&#xe3be;" />
+	<Text Font="MaterialIcons" ux:Class="mi_crop_16_9" Value="&#xe3bc;" />
+	<Text Font="MaterialIcons" ux:Class="mi_crop_3_2" Value="&#xe3bd;" />
+	<Text Font="MaterialIcons" ux:Class="mi_crop_5_4" Value="&#xe3bf;" />
+	<Text Font="MaterialIcons" ux:Class="mi_crop_7_5" Value="&#xe3c0;" />
+	<Text Font="MaterialIcons" ux:Class="mi_crop_din" Value="&#xe3c1;" />
+	<Text Font="MaterialIcons" ux:Class="mi_crop_free" Value="&#xe3c2;" />
+	<Text Font="MaterialIcons" ux:Class="mi_crop_landscape" Value="&#xe3c3;" />
+	<Text Font="MaterialIcons" ux:Class="mi_crop_original" Value="&#xe3c4;" />
+	<Text Font="MaterialIcons" ux:Class="mi_crop_portrait" Value="&#xe3c5;" />
+	<Text Font="MaterialIcons" ux:Class="mi_crop_rotate" Value="&#xe437;" />
+	<Text Font="MaterialIcons" ux:Class="mi_crop_square" Value="&#xe3c6;" />
+	<Text Font="MaterialIcons" ux:Class="mi_dashboard" Value="&#xe871;" />
+	<Text Font="MaterialIcons" ux:Class="mi_data_usage" Value="&#xe1af;" />
+	<Text Font="MaterialIcons" ux:Class="mi_date_range" Value="&#xe916;" />
+	<Text Font="MaterialIcons" ux:Class="mi_dehaze" Value="&#xe3c7;" />
+	<Text Font="MaterialIcons" ux:Class="mi_delete" Value="&#xe872;" />
+	<Text Font="MaterialIcons" ux:Class="mi_delete_forever" Value="&#xe92b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_delete_sweep" Value="&#xe16c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_description" Value="&#xe873;" />
+	<Text Font="MaterialIcons" ux:Class="mi_desktop_mac" Value="&#xe30b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_desktop_windows" Value="&#xe30c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_details" Value="&#xe3c8;" />
+	<Text Font="MaterialIcons" ux:Class="mi_developer_board" Value="&#xe30d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_developer_mode" Value="&#xe1b0;" />
+	<Text Font="MaterialIcons" ux:Class="mi_device_hub" Value="&#xe335;" />
+	<Text Font="MaterialIcons" ux:Class="mi_devices" Value="&#xe1b1;" />
+	<Text Font="MaterialIcons" ux:Class="mi_devices_other" Value="&#xe337;" />
+	<Text Font="MaterialIcons" ux:Class="mi_dialer_sip" Value="&#xe0bb;" />
+	<Text Font="MaterialIcons" ux:Class="mi_dialpad" Value="&#xe0bc;" />
+	<Text Font="MaterialIcons" ux:Class="mi_directions" Value="&#xe52e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_directions_bike" Value="&#xe52f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_directions_boat" Value="&#xe532;" />
+	<Text Font="MaterialIcons" ux:Class="mi_directions_bus" Value="&#xe530;" />
+	<Text Font="MaterialIcons" ux:Class="mi_directions_car" Value="&#xe531;" />
+	<Text Font="MaterialIcons" ux:Class="mi_directions_railway" Value="&#xe534;" />
+	<Text Font="MaterialIcons" ux:Class="mi_directions_run" Value="&#xe566;" />
+	<Text Font="MaterialIcons" ux:Class="mi_directions_subway" Value="&#xe533;" />
+	<Text Font="MaterialIcons" ux:Class="mi_directions_transit" Value="&#xe535;" />
+	<Text Font="MaterialIcons" ux:Class="mi_directions_walk" Value="&#xe536;" />
+	<Text Font="MaterialIcons" ux:Class="mi_disc_full" Value="&#xe610;" />
+	<Text Font="MaterialIcons" ux:Class="mi_dns" Value="&#xe875;" />
+	<Text Font="MaterialIcons" ux:Class="mi_do_not_disturb" Value="&#xe612;" />
+	<Text Font="MaterialIcons" ux:Class="mi_do_not_disturb_alt" Value="&#xe611;" />
+	<Text Font="MaterialIcons" ux:Class="mi_do_not_disturb_off" Value="&#xe643;" />
+	<Text Font="MaterialIcons" ux:Class="mi_do_not_disturb_on" Value="&#xe644;" />
+	<Text Font="MaterialIcons" ux:Class="mi_dock" Value="&#xe30e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_domain" Value="&#xe7ee;" />
+	<Text Font="MaterialIcons" ux:Class="mi_done" Value="&#xe876;" />
+	<Text Font="MaterialIcons" ux:Class="mi_done_all" Value="&#xe877;" />
+	<Text Font="MaterialIcons" ux:Class="mi_donut_large" Value="&#xe917;" />
+	<Text Font="MaterialIcons" ux:Class="mi_donut_small" Value="&#xe918;" />
+	<Text Font="MaterialIcons" ux:Class="mi_drafts" Value="&#xe151;" />
+	<Text Font="MaterialIcons" ux:Class="mi_drag_handle" Value="&#xe25d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_drive_eta" Value="&#xe613;" />
+	<Text Font="MaterialIcons" ux:Class="mi_dvr" Value="&#xe1b2;" />
+	<Text Font="MaterialIcons" ux:Class="mi_edit" Value="&#xe3c9;" />
+	<Text Font="MaterialIcons" ux:Class="mi_edit_location" Value="&#xe568;" />
+	<Text Font="MaterialIcons" ux:Class="mi_eject" Value="&#xe8fb;" />
+	<Text Font="MaterialIcons" ux:Class="mi_email" Value="&#xe0be;" />
+	<Text Font="MaterialIcons" ux:Class="mi_enhanced_encryption" Value="&#xe63f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_equalizer" Value="&#xe01d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_error" Value="&#xe000;" />
+	<Text Font="MaterialIcons" ux:Class="mi_error_outline" Value="&#xe001;" />
+	<Text Font="MaterialIcons" ux:Class="mi_euro_symbol" Value="&#xe926;" />
+	<Text Font="MaterialIcons" ux:Class="mi_ev_station" Value="&#xe56d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_event" Value="&#xe878;" />
+	<Text Font="MaterialIcons" ux:Class="mi_event_available" Value="&#xe614;" />
+	<Text Font="MaterialIcons" ux:Class="mi_event_busy" Value="&#xe615;" />
+	<Text Font="MaterialIcons" ux:Class="mi_event_note" Value="&#xe616;" />
+	<Text Font="MaterialIcons" ux:Class="mi_event_seat" Value="&#xe903;" />
+	<Text Font="MaterialIcons" ux:Class="mi_exit_to_app" Value="&#xe879;" />
+	<Text Font="MaterialIcons" ux:Class="mi_expand_less" Value="&#xe5ce;" />
+	<Text Font="MaterialIcons" ux:Class="mi_expand_more" Value="&#xe5cf;" />
+	<Text Font="MaterialIcons" ux:Class="mi_explicit" Value="&#xe01e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_explore" Value="&#xe87a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_exposure" Value="&#xe3ca;" />
+	<Text Font="MaterialIcons" ux:Class="mi_exposure_neg_1" Value="&#xe3cb;" />
+	<Text Font="MaterialIcons" ux:Class="mi_exposure_neg_2" Value="&#xe3cc;" />
+	<Text Font="MaterialIcons" ux:Class="mi_exposure_plus_1" Value="&#xe3cd;" />
+	<Text Font="MaterialIcons" ux:Class="mi_exposure_plus_2" Value="&#xe3ce;" />
+	<Text Font="MaterialIcons" ux:Class="mi_exposure_zero" Value="&#xe3cf;" />
+	<Text Font="MaterialIcons" ux:Class="mi_extension" Value="&#xe87b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_face" Value="&#xe87c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_fast_forward" Value="&#xe01f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_fast_rewind" Value="&#xe020;" />
+	<Text Font="MaterialIcons" ux:Class="mi_favorite" Value="&#xe87d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_favorite_border" Value="&#xe87e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_featured_play_list" Value="&#xe06d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_featured_video" Value="&#xe06e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_feedback" Value="&#xe87f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_fiber_dvr" Value="&#xe05d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_fiber_manual_record" Value="&#xe061;" />
+	<Text Font="MaterialIcons" ux:Class="mi_fiber_new" Value="&#xe05e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_fiber_pin" Value="&#xe06a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_fiber_smart_record" Value="&#xe062;" />
+	<Text Font="MaterialIcons" ux:Class="mi_file_download" Value="&#xe2c4;" />
+	<Text Font="MaterialIcons" ux:Class="mi_file_upload" Value="&#xe2c6;" />
+	<Text Font="MaterialIcons" ux:Class="mi_filter" Value="&#xe3d3;" />
+	<Text Font="MaterialIcons" ux:Class="mi_filter_1" Value="&#xe3d0;" />
+	<Text Font="MaterialIcons" ux:Class="mi_filter_2" Value="&#xe3d1;" />
+	<Text Font="MaterialIcons" ux:Class="mi_filter_3" Value="&#xe3d2;" />
+	<Text Font="MaterialIcons" ux:Class="mi_filter_4" Value="&#xe3d4;" />
+	<Text Font="MaterialIcons" ux:Class="mi_filter_5" Value="&#xe3d5;" />
+	<Text Font="MaterialIcons" ux:Class="mi_filter_6" Value="&#xe3d6;" />
+	<Text Font="MaterialIcons" ux:Class="mi_filter_7" Value="&#xe3d7;" />
+	<Text Font="MaterialIcons" ux:Class="mi_filter_8" Value="&#xe3d8;" />
+	<Text Font="MaterialIcons" ux:Class="mi_filter_9" Value="&#xe3d9;" />
+	<Text Font="MaterialIcons" ux:Class="mi_filter_9_plus" Value="&#xe3da;" />
+	<Text Font="MaterialIcons" ux:Class="mi_filter_b_and_w" Value="&#xe3db;" />
+	<Text Font="MaterialIcons" ux:Class="mi_filter_center_focus" Value="&#xe3dc;" />
+	<Text Font="MaterialIcons" ux:Class="mi_filter_drama" Value="&#xe3dd;" />
+	<Text Font="MaterialIcons" ux:Class="mi_filter_frames" Value="&#xe3de;" />
+	<Text Font="MaterialIcons" ux:Class="mi_filter_hdr" Value="&#xe3df;" />
+	<Text Font="MaterialIcons" ux:Class="mi_filter_list" Value="&#xe152;" />
+	<Text Font="MaterialIcons" ux:Class="mi_filter_none" Value="&#xe3e0;" />
+	<Text Font="MaterialIcons" ux:Class="mi_filter_tilt_shift" Value="&#xe3e2;" />
+	<Text Font="MaterialIcons" ux:Class="mi_filter_vintage" Value="&#xe3e3;" />
+	<Text Font="MaterialIcons" ux:Class="mi_find_in_page" Value="&#xe880;" />
+	<Text Font="MaterialIcons" ux:Class="mi_find_replace" Value="&#xe881;" />
+	<Text Font="MaterialIcons" ux:Class="mi_fingerprint" Value="&#xe90d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_first_page" Value="&#xe5dc;" />
+	<Text Font="MaterialIcons" ux:Class="mi_fitness_center" Value="&#xeb43;" />
+	<Text Font="MaterialIcons" ux:Class="mi_flag" Value="&#xe153;" />
+	<Text Font="MaterialIcons" ux:Class="mi_flare" Value="&#xe3e4;" />
+	<Text Font="MaterialIcons" ux:Class="mi_flash_auto" Value="&#xe3e5;" />
+	<Text Font="MaterialIcons" ux:Class="mi_flash_off" Value="&#xe3e6;" />
+	<Text Font="MaterialIcons" ux:Class="mi_flash_on" Value="&#xe3e7;" />
+	<Text Font="MaterialIcons" ux:Class="mi_flight" Value="&#xe539;" />
+	<Text Font="MaterialIcons" ux:Class="mi_flight_land" Value="&#xe904;" />
+	<Text Font="MaterialIcons" ux:Class="mi_flight_takeoff" Value="&#xe905;" />
+	<Text Font="MaterialIcons" ux:Class="mi_flip" Value="&#xe3e8;" />
+	<Text Font="MaterialIcons" ux:Class="mi_flip_to_back" Value="&#xe882;" />
+	<Text Font="MaterialIcons" ux:Class="mi_flip_to_front" Value="&#xe883;" />
+	<Text Font="MaterialIcons" ux:Class="mi_folder" Value="&#xe2c7;" />
+	<Text Font="MaterialIcons" ux:Class="mi_folder_open" Value="&#xe2c8;" />
+	<Text Font="MaterialIcons" ux:Class="mi_folder_shared" Value="&#xe2c9;" />
+	<Text Font="MaterialIcons" ux:Class="mi_folder_special" Value="&#xe617;" />
+	<Text Font="MaterialIcons" ux:Class="mi_font_download" Value="&#xe167;" />
+	<Text Font="MaterialIcons" ux:Class="mi_format_align_center" Value="&#xe234;" />
+	<Text Font="MaterialIcons" ux:Class="mi_format_align_justify" Value="&#xe235;" />
+	<Text Font="MaterialIcons" ux:Class="mi_format_align_left" Value="&#xe236;" />
+	<Text Font="MaterialIcons" ux:Class="mi_format_align_right" Value="&#xe237;" />
+	<Text Font="MaterialIcons" ux:Class="mi_format_bold" Value="&#xe238;" />
+	<Text Font="MaterialIcons" ux:Class="mi_format_clear" Value="&#xe239;" />
+	<Text Font="MaterialIcons" ux:Class="mi_format_color_fill" Value="&#xe23a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_format_color_reset" Value="&#xe23b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_format_color_text" Value="&#xe23c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_format_indent_decrease" Value="&#xe23d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_format_indent_increase" Value="&#xe23e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_format_italic" Value="&#xe23f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_format_line_spacing" Value="&#xe240;" />
+	<Text Font="MaterialIcons" ux:Class="mi_format_list_bulleted" Value="&#xe241;" />
+	<Text Font="MaterialIcons" ux:Class="mi_format_list_numbered" Value="&#xe242;" />
+	<Text Font="MaterialIcons" ux:Class="mi_format_paint" Value="&#xe243;" />
+	<Text Font="MaterialIcons" ux:Class="mi_format_quote" Value="&#xe244;" />
+	<Text Font="MaterialIcons" ux:Class="mi_format_shapes" Value="&#xe25e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_format_size" Value="&#xe245;" />
+	<Text Font="MaterialIcons" ux:Class="mi_format_strikethrough" Value="&#xe246;" />
+	<Text Font="MaterialIcons" ux:Class="mi_format_textdirection_l_to_r" Value="&#xe247;" />
+	<Text Font="MaterialIcons" ux:Class="mi_format_textdirection_r_to_l" Value="&#xe248;" />
+	<Text Font="MaterialIcons" ux:Class="mi_format_underlined" Value="&#xe249;" />
+	<Text Font="MaterialIcons" ux:Class="mi_forum" Value="&#xe0bf;" />
+	<Text Font="MaterialIcons" ux:Class="mi_forward" Value="&#xe154;" />
+	<Text Font="MaterialIcons" ux:Class="mi_forward_10" Value="&#xe056;" />
+	<Text Font="MaterialIcons" ux:Class="mi_forward_30" Value="&#xe057;" />
+	<Text Font="MaterialIcons" ux:Class="mi_forward_5" Value="&#xe058;" />
+	<Text Font="MaterialIcons" ux:Class="mi_free_breakfast" Value="&#xeb44;" />
+	<Text Font="MaterialIcons" ux:Class="mi_fullscreen" Value="&#xe5d0;" />
+	<Text Font="MaterialIcons" ux:Class="mi_fullscreen_exit" Value="&#xe5d1;" />
+	<Text Font="MaterialIcons" ux:Class="mi_functions" Value="&#xe24a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_g_translate" Value="&#xe927;" />
+	<Text Font="MaterialIcons" ux:Class="mi_gamepad" Value="&#xe30f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_games" Value="&#xe021;" />
+	<Text Font="MaterialIcons" ux:Class="mi_gavel" Value="&#xe90e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_gesture" Value="&#xe155;" />
+	<Text Font="MaterialIcons" ux:Class="mi_get_app" Value="&#xe884;" />
+	<Text Font="MaterialIcons" ux:Class="mi_gif" Value="&#xe908;" />
+	<Text Font="MaterialIcons" ux:Class="mi_golf_course" Value="&#xeb45;" />
+	<Text Font="MaterialIcons" ux:Class="mi_gps_fixed" Value="&#xe1b3;" />
+	<Text Font="MaterialIcons" ux:Class="mi_gps_not_fixed" Value="&#xe1b4;" />
+	<Text Font="MaterialIcons" ux:Class="mi_gps_off" Value="&#xe1b5;" />
+	<Text Font="MaterialIcons" ux:Class="mi_grade" Value="&#xe885;" />
+	<Text Font="MaterialIcons" ux:Class="mi_gradient" Value="&#xe3e9;" />
+	<Text Font="MaterialIcons" ux:Class="mi_grain" Value="&#xe3ea;" />
+	<Text Font="MaterialIcons" ux:Class="mi_graphic_eq" Value="&#xe1b8;" />
+	<Text Font="MaterialIcons" ux:Class="mi_grid_off" Value="&#xe3eb;" />
+	<Text Font="MaterialIcons" ux:Class="mi_grid_on" Value="&#xe3ec;" />
+	<Text Font="MaterialIcons" ux:Class="mi_group" Value="&#xe7ef;" />
+	<Text Font="MaterialIcons" ux:Class="mi_group_add" Value="&#xe7f0;" />
+	<Text Font="MaterialIcons" ux:Class="mi_group_work" Value="&#xe886;" />
+	<Text Font="MaterialIcons" ux:Class="mi_hd" Value="&#xe052;" />
+	<Text Font="MaterialIcons" ux:Class="mi_hdr_off" Value="&#xe3ed;" />
+	<Text Font="MaterialIcons" ux:Class="mi_hdr_on" Value="&#xe3ee;" />
+	<Text Font="MaterialIcons" ux:Class="mi_hdr_strong" Value="&#xe3f1;" />
+	<Text Font="MaterialIcons" ux:Class="mi_hdr_weak" Value="&#xe3f2;" />
+	<Text Font="MaterialIcons" ux:Class="mi_headset" Value="&#xe310;" />
+	<Text Font="MaterialIcons" ux:Class="mi_headset_mic" Value="&#xe311;" />
+	<Text Font="MaterialIcons" ux:Class="mi_healing" Value="&#xe3f3;" />
+	<Text Font="MaterialIcons" ux:Class="mi_hearing" Value="&#xe023;" />
+	<Text Font="MaterialIcons" ux:Class="mi_help" Value="&#xe887;" />
+	<Text Font="MaterialIcons" ux:Class="mi_help_outline" Value="&#xe8fd;" />
+	<Text Font="MaterialIcons" ux:Class="mi_high_quality" Value="&#xe024;" />
+	<Text Font="MaterialIcons" ux:Class="mi_highlight" Value="&#xe25f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_highlight_off" Value="&#xe888;" />
+	<Text Font="MaterialIcons" ux:Class="mi_history" Value="&#xe889;" />
+	<Text Font="MaterialIcons" ux:Class="mi_home" Value="&#xe88a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_hot_tub" Value="&#xeb46;" />
+	<Text Font="MaterialIcons" ux:Class="mi_hotel" Value="&#xe53a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_hourglass_empty" Value="&#xe88b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_hourglass_full" Value="&#xe88c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_http" Value="&#xe902;" />
+	<Text Font="MaterialIcons" ux:Class="mi_https" Value="&#xe88d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_image" Value="&#xe3f4;" />
+	<Text Font="MaterialIcons" ux:Class="mi_image_aspect_ratio" Value="&#xe3f5;" />
+	<Text Font="MaterialIcons" ux:Class="mi_import_contacts" Value="&#xe0e0;" />
+	<Text Font="MaterialIcons" ux:Class="mi_import_export" Value="&#xe0c3;" />
+	<Text Font="MaterialIcons" ux:Class="mi_important_devices" Value="&#xe912;" />
+	<Text Font="MaterialIcons" ux:Class="mi_inbox" Value="&#xe156;" />
+	<Text Font="MaterialIcons" ux:Class="mi_indeterminate_check_box" Value="&#xe909;" />
+	<Text Font="MaterialIcons" ux:Class="mi_info" Value="&#xe88e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_info_outline" Value="&#xe88f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_input" Value="&#xe890;" />
+	<Text Font="MaterialIcons" ux:Class="mi_insert_chart" Value="&#xe24b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_insert_comment" Value="&#xe24c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_insert_drive_file" Value="&#xe24d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_insert_emoticon" Value="&#xe24e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_insert_invitation" Value="&#xe24f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_insert_link" Value="&#xe250;" />
+	<Text Font="MaterialIcons" ux:Class="mi_insert_photo" Value="&#xe251;" />
+	<Text Font="MaterialIcons" ux:Class="mi_invert_colors" Value="&#xe891;" />
+	<Text Font="MaterialIcons" ux:Class="mi_invert_colors_off" Value="&#xe0c4;" />
+	<Text Font="MaterialIcons" ux:Class="mi_iso" Value="&#xe3f6;" />
+	<Text Font="MaterialIcons" ux:Class="mi_keyboard" Value="&#xe312;" />
+	<Text Font="MaterialIcons" ux:Class="mi_keyboard_arrow_down" Value="&#xe313;" />
+	<Text Font="MaterialIcons" ux:Class="mi_keyboard_arrow_left" Value="&#xe314;" />
+	<Text Font="MaterialIcons" ux:Class="mi_keyboard_arrow_right" Value="&#xe315;" />
+	<Text Font="MaterialIcons" ux:Class="mi_keyboard_arrow_up" Value="&#xe316;" />
+	<Text Font="MaterialIcons" ux:Class="mi_keyboard_backspace" Value="&#xe317;" />
+	<Text Font="MaterialIcons" ux:Class="mi_keyboard_capslock" Value="&#xe318;" />
+	<Text Font="MaterialIcons" ux:Class="mi_keyboard_hide" Value="&#xe31a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_keyboard_return" Value="&#xe31b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_keyboard_tab" Value="&#xe31c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_keyboard_voice" Value="&#xe31d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_kitchen" Value="&#xeb47;" />
+	<Text Font="MaterialIcons" ux:Class="mi_label" Value="&#xe892;" />
+	<Text Font="MaterialIcons" ux:Class="mi_label_outline" Value="&#xe893;" />
+	<Text Font="MaterialIcons" ux:Class="mi_landscape" Value="&#xe3f7;" />
+	<Text Font="MaterialIcons" ux:Class="mi_language" Value="&#xe894;" />
+	<Text Font="MaterialIcons" ux:Class="mi_laptop" Value="&#xe31e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_laptop_chromebook" Value="&#xe31f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_laptop_mac" Value="&#xe320;" />
+	<Text Font="MaterialIcons" ux:Class="mi_laptop_windows" Value="&#xe321;" />
+	<Text Font="MaterialIcons" ux:Class="mi_last_page" Value="&#xe5dd;" />
+	<Text Font="MaterialIcons" ux:Class="mi_launch" Value="&#xe895;" />
+	<Text Font="MaterialIcons" ux:Class="mi_layers" Value="&#xe53b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_layers_clear" Value="&#xe53c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_leak_add" Value="&#xe3f8;" />
+	<Text Font="MaterialIcons" ux:Class="mi_leak_remove" Value="&#xe3f9;" />
+	<Text Font="MaterialIcons" ux:Class="mi_lens" Value="&#xe3fa;" />
+	<Text Font="MaterialIcons" ux:Class="mi_library_add" Value="&#xe02e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_library_books" Value="&#xe02f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_library_music" Value="&#xe030;" />
+	<Text Font="MaterialIcons" ux:Class="mi_lightbulb_outline" Value="&#xe90f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_line_style" Value="&#xe919;" />
+	<Text Font="MaterialIcons" ux:Class="mi_line_weight" Value="&#xe91a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_linear_scale" Value="&#xe260;" />
+	<Text Font="MaterialIcons" ux:Class="mi_link" Value="&#xe157;" />
+	<Text Font="MaterialIcons" ux:Class="mi_linked_camera" Value="&#xe438;" />
+	<Text Font="MaterialIcons" ux:Class="mi_list" Value="&#xe896;" />
+	<Text Font="MaterialIcons" ux:Class="mi_live_help" Value="&#xe0c6;" />
+	<Text Font="MaterialIcons" ux:Class="mi_live_tv" Value="&#xe639;" />
+	<Text Font="MaterialIcons" ux:Class="mi_local_activity" Value="&#xe53f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_local_airport" Value="&#xe53d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_local_atm" Value="&#xe53e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_local_bar" Value="&#xe540;" />
+	<Text Font="MaterialIcons" ux:Class="mi_local_cafe" Value="&#xe541;" />
+	<Text Font="MaterialIcons" ux:Class="mi_local_car_wash" Value="&#xe542;" />
+	<Text Font="MaterialIcons" ux:Class="mi_local_convenience_store" Value="&#xe543;" />
+	<Text Font="MaterialIcons" ux:Class="mi_local_dining" Value="&#xe556;" />
+	<Text Font="MaterialIcons" ux:Class="mi_local_drink" Value="&#xe544;" />
+	<Text Font="MaterialIcons" ux:Class="mi_local_florist" Value="&#xe545;" />
+	<Text Font="MaterialIcons" ux:Class="mi_local_gas_station" Value="&#xe546;" />
+	<Text Font="MaterialIcons" ux:Class="mi_local_grocery_store" Value="&#xe547;" />
+	<Text Font="MaterialIcons" ux:Class="mi_local_hospital" Value="&#xe548;" />
+	<Text Font="MaterialIcons" ux:Class="mi_local_hotel" Value="&#xe549;" />
+	<Text Font="MaterialIcons" ux:Class="mi_local_laundry_service" Value="&#xe54a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_local_library" Value="&#xe54b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_local_mall" Value="&#xe54c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_local_movies" Value="&#xe54d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_local_offer" Value="&#xe54e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_local_parking" Value="&#xe54f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_local_pharmacy" Value="&#xe550;" />
+	<Text Font="MaterialIcons" ux:Class="mi_local_phone" Value="&#xe551;" />
+	<Text Font="MaterialIcons" ux:Class="mi_local_pizza" Value="&#xe552;" />
+	<Text Font="MaterialIcons" ux:Class="mi_local_play" Value="&#xe553;" />
+	<Text Font="MaterialIcons" ux:Class="mi_local_post_office" Value="&#xe554;" />
+	<Text Font="MaterialIcons" ux:Class="mi_local_printshop" Value="&#xe555;" />
+	<Text Font="MaterialIcons" ux:Class="mi_local_see" Value="&#xe557;" />
+	<Text Font="MaterialIcons" ux:Class="mi_local_shipping" Value="&#xe558;" />
+	<Text Font="MaterialIcons" ux:Class="mi_local_taxi" Value="&#xe559;" />
+	<Text Font="MaterialIcons" ux:Class="mi_location_city" Value="&#xe7f1;" />
+	<Text Font="MaterialIcons" ux:Class="mi_location_disabled" Value="&#xe1b6;" />
+	<Text Font="MaterialIcons" ux:Class="mi_location_off" Value="&#xe0c7;" />
+	<Text Font="MaterialIcons" ux:Class="mi_location_on" Value="&#xe0c8;" />
+	<Text Font="MaterialIcons" ux:Class="mi_location_searching" Value="&#xe1b7;" />
+	<Text Font="MaterialIcons" ux:Class="mi_lock" Value="&#xe897;" />
+	<Text Font="MaterialIcons" ux:Class="mi_lock_open" Value="&#xe898;" />
+	<Text Font="MaterialIcons" ux:Class="mi_lock_outline" Value="&#xe899;" />
+	<Text Font="MaterialIcons" ux:Class="mi_looks" Value="&#xe3fc;" />
+	<Text Font="MaterialIcons" ux:Class="mi_looks_3" Value="&#xe3fb;" />
+	<Text Font="MaterialIcons" ux:Class="mi_looks_4" Value="&#xe3fd;" />
+	<Text Font="MaterialIcons" ux:Class="mi_looks_5" Value="&#xe3fe;" />
+	<Text Font="MaterialIcons" ux:Class="mi_looks_6" Value="&#xe3ff;" />
+	<Text Font="MaterialIcons" ux:Class="mi_looks_one" Value="&#xe400;" />
+	<Text Font="MaterialIcons" ux:Class="mi_looks_two" Value="&#xe401;" />
+	<Text Font="MaterialIcons" ux:Class="mi_loop" Value="&#xe028;" />
+	<Text Font="MaterialIcons" ux:Class="mi_loupe" Value="&#xe402;" />
+	<Text Font="MaterialIcons" ux:Class="mi_low_priority" Value="&#xe16d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_loyalty" Value="&#xe89a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_mail" Value="&#xe158;" />
+	<Text Font="MaterialIcons" ux:Class="mi_mail_outline" Value="&#xe0e1;" />
+	<Text Font="MaterialIcons" ux:Class="mi_map" Value="&#xe55b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_markunread" Value="&#xe159;" />
+	<Text Font="MaterialIcons" ux:Class="mi_markunread_mailbox" Value="&#xe89b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_memory" Value="&#xe322;" />
+	<Text Font="MaterialIcons" ux:Class="mi_menu" Value="&#xe5d2;" />
+	<Text Font="MaterialIcons" ux:Class="mi_merge_type" Value="&#xe252;" />
+	<Text Font="MaterialIcons" ux:Class="mi_message" Value="&#xe0c9;" />
+	<Text Font="MaterialIcons" ux:Class="mi_mic" Value="&#xe029;" />
+	<Text Font="MaterialIcons" ux:Class="mi_mic_none" Value="&#xe02a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_mic_off" Value="&#xe02b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_mms" Value="&#xe618;" />
+	<Text Font="MaterialIcons" ux:Class="mi_mode_comment" Value="&#xe253;" />
+	<Text Font="MaterialIcons" ux:Class="mi_mode_edit" Value="&#xe254;" />
+	<Text Font="MaterialIcons" ux:Class="mi_monetization_on" Value="&#xe263;" />
+	<Text Font="MaterialIcons" ux:Class="mi_money_off" Value="&#xe25c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_monochrome_photos" Value="&#xe403;" />
+	<Text Font="MaterialIcons" ux:Class="mi_mood" Value="&#xe7f2;" />
+	<Text Font="MaterialIcons" ux:Class="mi_mood_bad" Value="&#xe7f3;" />
+	<Text Font="MaterialIcons" ux:Class="mi_more" Value="&#xe619;" />
+	<Text Font="MaterialIcons" ux:Class="mi_more_horiz" Value="&#xe5d3;" />
+	<Text Font="MaterialIcons" ux:Class="mi_more_vert" Value="&#xe5d4;" />
+	<Text Font="MaterialIcons" ux:Class="mi_motorcycle" Value="&#xe91b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_mouse" Value="&#xe323;" />
+	<Text Font="MaterialIcons" ux:Class="mi_move_to_inbox" Value="&#xe168;" />
+	<Text Font="MaterialIcons" ux:Class="mi_movie" Value="&#xe02c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_movie_creation" Value="&#xe404;" />
+	<Text Font="MaterialIcons" ux:Class="mi_movie_filter" Value="&#xe43a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_multiline_chart" Value="&#xe6df;" />
+	<Text Font="MaterialIcons" ux:Class="mi_music_note" Value="&#xe405;" />
+	<Text Font="MaterialIcons" ux:Class="mi_music_video" Value="&#xe063;" />
+	<Text Font="MaterialIcons" ux:Class="mi_my_location" Value="&#xe55c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_nature" Value="&#xe406;" />
+	<Text Font="MaterialIcons" ux:Class="mi_nature_people" Value="&#xe407;" />
+	<Text Font="MaterialIcons" ux:Class="mi_navigate_before" Value="&#xe408;" />
+	<Text Font="MaterialIcons" ux:Class="mi_navigate_next" Value="&#xe409;" />
+	<Text Font="MaterialIcons" ux:Class="mi_navigation" Value="&#xe55d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_near_me" Value="&#xe569;" />
+	<Text Font="MaterialIcons" ux:Class="mi_network_cell" Value="&#xe1b9;" />
+	<Text Font="MaterialIcons" ux:Class="mi_network_check" Value="&#xe640;" />
+	<Text Font="MaterialIcons" ux:Class="mi_network_locked" Value="&#xe61a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_network_wifi" Value="&#xe1ba;" />
+	<Text Font="MaterialIcons" ux:Class="mi_new_releases" Value="&#xe031;" />
+	<Text Font="MaterialIcons" ux:Class="mi_next_week" Value="&#xe16a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_nfc" Value="&#xe1bb;" />
+	<Text Font="MaterialIcons" ux:Class="mi_no_encryption" Value="&#xe641;" />
+	<Text Font="MaterialIcons" ux:Class="mi_no_sim" Value="&#xe0cc;" />
+	<Text Font="MaterialIcons" ux:Class="mi_not_interested" Value="&#xe033;" />
+	<Text Font="MaterialIcons" ux:Class="mi_note" Value="&#xe06f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_note_add" Value="&#xe89c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_notifications" Value="&#xe7f4;" />
+	<Text Font="MaterialIcons" ux:Class="mi_notifications_active" Value="&#xe7f7;" />
+	<Text Font="MaterialIcons" ux:Class="mi_notifications_none" Value="&#xe7f5;" />
+	<Text Font="MaterialIcons" ux:Class="mi_notifications_off" Value="&#xe7f6;" />
+	<Text Font="MaterialIcons" ux:Class="mi_notifications_paused" Value="&#xe7f8;" />
+	<Text Font="MaterialIcons" ux:Class="mi_offline_pin" Value="&#xe90a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_ondemand_video" Value="&#xe63a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_opacity" Value="&#xe91c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_open_in_browser" Value="&#xe89d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_open_in_new" Value="&#xe89e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_open_with" Value="&#xe89f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_pages" Value="&#xe7f9;" />
+	<Text Font="MaterialIcons" ux:Class="mi_pageview" Value="&#xe8a0;" />
+	<Text Font="MaterialIcons" ux:Class="mi_palette" Value="&#xe40a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_pan_tool" Value="&#xe925;" />
+	<Text Font="MaterialIcons" ux:Class="mi_panorama" Value="&#xe40b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_panorama_fish_eye" Value="&#xe40c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_panorama_horizontal" Value="&#xe40d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_panorama_vertical" Value="&#xe40e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_panorama_wide_angle" Value="&#xe40f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_party_mode" Value="&#xe7fa;" />
+	<Text Font="MaterialIcons" ux:Class="mi_pause" Value="&#xe034;" />
+	<Text Font="MaterialIcons" ux:Class="mi_pause_circle_filled" Value="&#xe035;" />
+	<Text Font="MaterialIcons" ux:Class="mi_pause_circle_outline" Value="&#xe036;" />
+	<Text Font="MaterialIcons" ux:Class="mi_payment" Value="&#xe8a1;" />
+	<Text Font="MaterialIcons" ux:Class="mi_people" Value="&#xe7fb;" />
+	<Text Font="MaterialIcons" ux:Class="mi_people_outline" Value="&#xe7fc;" />
+	<Text Font="MaterialIcons" ux:Class="mi_perm_camera_mic" Value="&#xe8a2;" />
+	<Text Font="MaterialIcons" ux:Class="mi_perm_contact_calendar" Value="&#xe8a3;" />
+	<Text Font="MaterialIcons" ux:Class="mi_perm_data_setting" Value="&#xe8a4;" />
+	<Text Font="MaterialIcons" ux:Class="mi_perm_device_information" Value="&#xe8a5;" />
+	<Text Font="MaterialIcons" ux:Class="mi_perm_identity" Value="&#xe8a6;" />
+	<Text Font="MaterialIcons" ux:Class="mi_perm_media" Value="&#xe8a7;" />
+	<Text Font="MaterialIcons" ux:Class="mi_perm_phone_msg" Value="&#xe8a8;" />
+	<Text Font="MaterialIcons" ux:Class="mi_perm_scan_wifi" Value="&#xe8a9;" />
+	<Text Font="MaterialIcons" ux:Class="mi_person" Value="&#xe7fd;" />
+	<Text Font="MaterialIcons" ux:Class="mi_person_add" Value="&#xe7fe;" />
+	<Text Font="MaterialIcons" ux:Class="mi_person_outline" Value="&#xe7ff;" />
+	<Text Font="MaterialIcons" ux:Class="mi_person_pin" Value="&#xe55a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_person_pin_circle" Value="&#xe56a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_personal_video" Value="&#xe63b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_pets" Value="&#xe91d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_phone" Value="&#xe0cd;" />
+	<Text Font="MaterialIcons" ux:Class="mi_phone_android" Value="&#xe324;" />
+	<Text Font="MaterialIcons" ux:Class="mi_phone_bluetooth_speaker" Value="&#xe61b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_phone_forwarded" Value="&#xe61c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_phone_in_talk" Value="&#xe61d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_phone_iphone" Value="&#xe325;" />
+	<Text Font="MaterialIcons" ux:Class="mi_phone_locked" Value="&#xe61e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_phone_missed" Value="&#xe61f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_phone_paused" Value="&#xe620;" />
+	<Text Font="MaterialIcons" ux:Class="mi_phonelink" Value="&#xe326;" />
+	<Text Font="MaterialIcons" ux:Class="mi_phonelink_erase" Value="&#xe0db;" />
+	<Text Font="MaterialIcons" ux:Class="mi_phonelink_lock" Value="&#xe0dc;" />
+	<Text Font="MaterialIcons" ux:Class="mi_phonelink_off" Value="&#xe327;" />
+	<Text Font="MaterialIcons" ux:Class="mi_phonelink_ring" Value="&#xe0dd;" />
+	<Text Font="MaterialIcons" ux:Class="mi_phonelink_setup" Value="&#xe0de;" />
+	<Text Font="MaterialIcons" ux:Class="mi_photo" Value="&#xe410;" />
+	<Text Font="MaterialIcons" ux:Class="mi_photo_album" Value="&#xe411;" />
+	<Text Font="MaterialIcons" ux:Class="mi_photo_camera" Value="&#xe412;" />
+	<Text Font="MaterialIcons" ux:Class="mi_photo_filter" Value="&#xe43b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_photo_library" Value="&#xe413;" />
+	<Text Font="MaterialIcons" ux:Class="mi_photo_size_select_actual" Value="&#xe432;" />
+	<Text Font="MaterialIcons" ux:Class="mi_photo_size_select_large" Value="&#xe433;" />
+	<Text Font="MaterialIcons" ux:Class="mi_photo_size_select_small" Value="&#xe434;" />
+	<Text Font="MaterialIcons" ux:Class="mi_picture_as_pdf" Value="&#xe415;" />
+	<Text Font="MaterialIcons" ux:Class="mi_picture_in_picture" Value="&#xe8aa;" />
+	<Text Font="MaterialIcons" ux:Class="mi_picture_in_picture_alt" Value="&#xe911;" />
+	<Text Font="MaterialIcons" ux:Class="mi_pie_chart" Value="&#xe6c4;" />
+	<Text Font="MaterialIcons" ux:Class="mi_pie_chart_outlined" Value="&#xe6c5;" />
+	<Text Font="MaterialIcons" ux:Class="mi_pin_drop" Value="&#xe55e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_place" Value="&#xe55f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_play_arrow" Value="&#xe037;" />
+	<Text Font="MaterialIcons" ux:Class="mi_play_circle_filled" Value="&#xe038;" />
+	<Text Font="MaterialIcons" ux:Class="mi_play_circle_outline" Value="&#xe039;" />
+	<Text Font="MaterialIcons" ux:Class="mi_play_for_work" Value="&#xe906;" />
+	<Text Font="MaterialIcons" ux:Class="mi_playlist_add" Value="&#xe03b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_playlist_add_check" Value="&#xe065;" />
+	<Text Font="MaterialIcons" ux:Class="mi_playlist_play" Value="&#xe05f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_plus_one" Value="&#xe800;" />
+	<Text Font="MaterialIcons" ux:Class="mi_poll" Value="&#xe801;" />
+	<Text Font="MaterialIcons" ux:Class="mi_polymer" Value="&#xe8ab;" />
+	<Text Font="MaterialIcons" ux:Class="mi_pool" Value="&#xeb48;" />
+	<Text Font="MaterialIcons" ux:Class="mi_portable_wifi_off" Value="&#xe0ce;" />
+	<Text Font="MaterialIcons" ux:Class="mi_portrait" Value="&#xe416;" />
+	<Text Font="MaterialIcons" ux:Class="mi_power" Value="&#xe63c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_power_input" Value="&#xe336;" />
+	<Text Font="MaterialIcons" ux:Class="mi_power_settings_new" Value="&#xe8ac;" />
+	<Text Font="MaterialIcons" ux:Class="mi_pregnant_woman" Value="&#xe91e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_present_to_all" Value="&#xe0df;" />
+	<Text Font="MaterialIcons" ux:Class="mi_print" Value="&#xe8ad;" />
+	<Text Font="MaterialIcons" ux:Class="mi_priority_high" Value="&#xe645;" />
+	<Text Font="MaterialIcons" ux:Class="mi_public" Value="&#xe80b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_publish" Value="&#xe255;" />
+	<Text Font="MaterialIcons" ux:Class="mi_query_builder" Value="&#xe8ae;" />
+	<Text Font="MaterialIcons" ux:Class="mi_question_answer" Value="&#xe8af;" />
+	<Text Font="MaterialIcons" ux:Class="mi_queue" Value="&#xe03c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_queue_music" Value="&#xe03d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_queue_play_next" Value="&#xe066;" />
+	<Text Font="MaterialIcons" ux:Class="mi_radio" Value="&#xe03e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_radio_button_checked" Value="&#xe837;" />
+	<Text Font="MaterialIcons" ux:Class="mi_radio_button_unchecked" Value="&#xe836;" />
+	<Text Font="MaterialIcons" ux:Class="mi_rate_review" Value="&#xe560;" />
+	<Text Font="MaterialIcons" ux:Class="mi_receipt" Value="&#xe8b0;" />
+	<Text Font="MaterialIcons" ux:Class="mi_recent_actors" Value="&#xe03f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_record_voice_over" Value="&#xe91f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_redeem" Value="&#xe8b1;" />
+	<Text Font="MaterialIcons" ux:Class="mi_redo" Value="&#xe15a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_refresh" Value="&#xe5d5;" />
+	<Text Font="MaterialIcons" ux:Class="mi_remove" Value="&#xe15b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_remove_circle" Value="&#xe15c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_remove_circle_outline" Value="&#xe15d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_remove_from_queue" Value="&#xe067;" />
+	<Text Font="MaterialIcons" ux:Class="mi_remove_red_eye" Value="&#xe417;" />
+	<Text Font="MaterialIcons" ux:Class="mi_remove_shopping_cart" Value="&#xe928;" />
+	<Text Font="MaterialIcons" ux:Class="mi_reorder" Value="&#xe8fe;" />
+	<Text Font="MaterialIcons" ux:Class="mi_repeat" Value="&#xe040;" />
+	<Text Font="MaterialIcons" ux:Class="mi_repeat_one" Value="&#xe041;" />
+	<Text Font="MaterialIcons" ux:Class="mi_replay" Value="&#xe042;" />
+	<Text Font="MaterialIcons" ux:Class="mi_replay_10" Value="&#xe059;" />
+	<Text Font="MaterialIcons" ux:Class="mi_replay_30" Value="&#xe05a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_replay_5" Value="&#xe05b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_reply" Value="&#xe15e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_reply_all" Value="&#xe15f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_report" Value="&#xe160;" />
+	<Text Font="MaterialIcons" ux:Class="mi_report_problem" Value="&#xe8b2;" />
+	<Text Font="MaterialIcons" ux:Class="mi_restaurant" Value="&#xe56c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_restaurant_menu" Value="&#xe561;" />
+	<Text Font="MaterialIcons" ux:Class="mi_restore" Value="&#xe8b3;" />
+	<Text Font="MaterialIcons" ux:Class="mi_restore_page" Value="&#xe929;" />
+	<Text Font="MaterialIcons" ux:Class="mi_ring_volume" Value="&#xe0d1;" />
+	<Text Font="MaterialIcons" ux:Class="mi_room" Value="&#xe8b4;" />
+	<Text Font="MaterialIcons" ux:Class="mi_room_service" Value="&#xeb49;" />
+	<Text Font="MaterialIcons" ux:Class="mi_rotate_90_degrees_ccw" Value="&#xe418;" />
+	<Text Font="MaterialIcons" ux:Class="mi_rotate_left" Value="&#xe419;" />
+	<Text Font="MaterialIcons" ux:Class="mi_rotate_right" Value="&#xe41a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_rounded_corner" Value="&#xe920;" />
+	<Text Font="MaterialIcons" ux:Class="mi_router" Value="&#xe328;" />
+	<Text Font="MaterialIcons" ux:Class="mi_rowing" Value="&#xe921;" />
+	<Text Font="MaterialIcons" ux:Class="mi_rss_feed" Value="&#xe0e5;" />
+	<Text Font="MaterialIcons" ux:Class="mi_rv_hookup" Value="&#xe642;" />
+	<Text Font="MaterialIcons" ux:Class="mi_satellite" Value="&#xe562;" />
+	<Text Font="MaterialIcons" ux:Class="mi_save" Value="&#xe161;" />
+	<Text Font="MaterialIcons" ux:Class="mi_scanner" Value="&#xe329;" />
+	<Text Font="MaterialIcons" ux:Class="mi_schedule" Value="&#xe8b5;" />
+	<Text Font="MaterialIcons" ux:Class="mi_school" Value="&#xe80c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_screen_lock_landscape" Value="&#xe1be;" />
+	<Text Font="MaterialIcons" ux:Class="mi_screen_lock_portrait" Value="&#xe1bf;" />
+	<Text Font="MaterialIcons" ux:Class="mi_screen_lock_rotation" Value="&#xe1c0;" />
+	<Text Font="MaterialIcons" ux:Class="mi_screen_rotation" Value="&#xe1c1;" />
+	<Text Font="MaterialIcons" ux:Class="mi_screen_share" Value="&#xe0e2;" />
+	<Text Font="MaterialIcons" ux:Class="mi_sd_card" Value="&#xe623;" />
+	<Text Font="MaterialIcons" ux:Class="mi_sd_storage" Value="&#xe1c2;" />
+	<Text Font="MaterialIcons" ux:Class="mi_search" Value="&#xe8b6;" />
+	<Text Font="MaterialIcons" ux:Class="mi_security" Value="&#xe32a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_select_all" Value="&#xe162;" />
+	<Text Font="MaterialIcons" ux:Class="mi_send" Value="&#xe163;" />
+	<Text Font="MaterialIcons" ux:Class="mi_sentiment_dissatisfied" Value="&#xe811;" />
+	<Text Font="MaterialIcons" ux:Class="mi_sentiment_neutral" Value="&#xe812;" />
+	<Text Font="MaterialIcons" ux:Class="mi_sentiment_satisfied" Value="&#xe813;" />
+	<Text Font="MaterialIcons" ux:Class="mi_sentiment_very_dissatisfied" Value="&#xe814;" />
+	<Text Font="MaterialIcons" ux:Class="mi_sentiment_very_satisfied" Value="&#xe815;" />
+	<Text Font="MaterialIcons" ux:Class="mi_settings" Value="&#xe8b8;" />
+	<Text Font="MaterialIcons" ux:Class="mi_settings_applications" Value="&#xe8b9;" />
+	<Text Font="MaterialIcons" ux:Class="mi_settings_backup_restore" Value="&#xe8ba;" />
+	<Text Font="MaterialIcons" ux:Class="mi_settings_bluetooth" Value="&#xe8bb;" />
+	<Text Font="MaterialIcons" ux:Class="mi_settings_brightness" Value="&#xe8bd;" />
+	<Text Font="MaterialIcons" ux:Class="mi_settings_cell" Value="&#xe8bc;" />
+	<Text Font="MaterialIcons" ux:Class="mi_settings_ethernet" Value="&#xe8be;" />
+	<Text Font="MaterialIcons" ux:Class="mi_settings_input_antenna" Value="&#xe8bf;" />
+	<Text Font="MaterialIcons" ux:Class="mi_settings_input_component" Value="&#xe8c0;" />
+	<Text Font="MaterialIcons" ux:Class="mi_settings_input_composite" Value="&#xe8c1;" />
+	<Text Font="MaterialIcons" ux:Class="mi_settings_input_hdmi" Value="&#xe8c2;" />
+	<Text Font="MaterialIcons" ux:Class="mi_settings_input_svideo" Value="&#xe8c3;" />
+	<Text Font="MaterialIcons" ux:Class="mi_settings_overscan" Value="&#xe8c4;" />
+	<Text Font="MaterialIcons" ux:Class="mi_settings_phone" Value="&#xe8c5;" />
+	<Text Font="MaterialIcons" ux:Class="mi_settings_power" Value="&#xe8c6;" />
+	<Text Font="MaterialIcons" ux:Class="mi_settings_remote" Value="&#xe8c7;" />
+	<Text Font="MaterialIcons" ux:Class="mi_settings_system_daydream" Value="&#xe1c3;" />
+	<Text Font="MaterialIcons" ux:Class="mi_settings_voice" Value="&#xe8c8;" />
+	<Text Font="MaterialIcons" ux:Class="mi_share" Value="&#xe80d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_shop" Value="&#xe8c9;" />
+	<Text Font="MaterialIcons" ux:Class="mi_shop_two" Value="&#xe8ca;" />
+	<Text Font="MaterialIcons" ux:Class="mi_shopping_basket" Value="&#xe8cb;" />
+	<Text Font="MaterialIcons" ux:Class="mi_shopping_cart" Value="&#xe8cc;" />
+	<Text Font="MaterialIcons" ux:Class="mi_short_text" Value="&#xe261;" />
+	<Text Font="MaterialIcons" ux:Class="mi_show_chart" Value="&#xe6e1;" />
+	<Text Font="MaterialIcons" ux:Class="mi_shuffle" Value="&#xe043;" />
+	<Text Font="MaterialIcons" ux:Class="mi_signal_cellular_4_bar" Value="&#xe1c8;" />
+	<Text Font="MaterialIcons" ux:Class="mi_signal_cellular_connected_no_internet_4_bar" Value="&#xe1cd;" />
+	<Text Font="MaterialIcons" ux:Class="mi_signal_cellular_no_sim" Value="&#xe1ce;" />
+	<Text Font="MaterialIcons" ux:Class="mi_signal_cellular_null" Value="&#xe1cf;" />
+	<Text Font="MaterialIcons" ux:Class="mi_signal_cellular_off" Value="&#xe1d0;" />
+	<Text Font="MaterialIcons" ux:Class="mi_signal_wifi_4_bar" Value="&#xe1d8;" />
+	<Text Font="MaterialIcons" ux:Class="mi_signal_wifi_4_bar_lock" Value="&#xe1d9;" />
+	<Text Font="MaterialIcons" ux:Class="mi_signal_wifi_off" Value="&#xe1da;" />
+	<Text Font="MaterialIcons" ux:Class="mi_sim_card" Value="&#xe32b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_sim_card_alert" Value="&#xe624;" />
+	<Text Font="MaterialIcons" ux:Class="mi_skip_next" Value="&#xe044;" />
+	<Text Font="MaterialIcons" ux:Class="mi_skip_previous" Value="&#xe045;" />
+	<Text Font="MaterialIcons" ux:Class="mi_slideshow" Value="&#xe41b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_slow_motion_video" Value="&#xe068;" />
+	<Text Font="MaterialIcons" ux:Class="mi_smartphone" Value="&#xe32c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_smoke_free" Value="&#xeb4a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_smoking_rooms" Value="&#xeb4b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_sms" Value="&#xe625;" />
+	<Text Font="MaterialIcons" ux:Class="mi_sms_failed" Value="&#xe626;" />
+	<Text Font="MaterialIcons" ux:Class="mi_snooze" Value="&#xe046;" />
+	<Text Font="MaterialIcons" ux:Class="mi_sort" Value="&#xe164;" />
+	<Text Font="MaterialIcons" ux:Class="mi_sort_by_alpha" Value="&#xe053;" />
+	<Text Font="MaterialIcons" ux:Class="mi_spa" Value="&#xeb4c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_space_bar" Value="&#xe256;" />
+	<Text Font="MaterialIcons" ux:Class="mi_speaker" Value="&#xe32d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_speaker_group" Value="&#xe32e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_speaker_notes" Value="&#xe8cd;" />
+	<Text Font="MaterialIcons" ux:Class="mi_speaker_notes_off" Value="&#xe92a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_speaker_phone" Value="&#xe0d2;" />
+	<Text Font="MaterialIcons" ux:Class="mi_spellcheck" Value="&#xe8ce;" />
+	<Text Font="MaterialIcons" ux:Class="mi_star" Value="&#xe838;" />
+	<Text Font="MaterialIcons" ux:Class="mi_star_border" Value="&#xe83a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_star_half" Value="&#xe839;" />
+	<Text Font="MaterialIcons" ux:Class="mi_stars" Value="&#xe8d0;" />
+	<Text Font="MaterialIcons" ux:Class="mi_stay_current_landscape" Value="&#xe0d3;" />
+	<Text Font="MaterialIcons" ux:Class="mi_stay_current_portrait" Value="&#xe0d4;" />
+	<Text Font="MaterialIcons" ux:Class="mi_stay_primary_landscape" Value="&#xe0d5;" />
+	<Text Font="MaterialIcons" ux:Class="mi_stay_primary_portrait" Value="&#xe0d6;" />
+	<Text Font="MaterialIcons" ux:Class="mi_stop" Value="&#xe047;" />
+	<Text Font="MaterialIcons" ux:Class="mi_stop_screen_share" Value="&#xe0e3;" />
+	<Text Font="MaterialIcons" ux:Class="mi_storage" Value="&#xe1db;" />
+	<Text Font="MaterialIcons" ux:Class="mi_store" Value="&#xe8d1;" />
+	<Text Font="MaterialIcons" ux:Class="mi_store_mall_directory" Value="&#xe563;" />
+	<Text Font="MaterialIcons" ux:Class="mi_straighten" Value="&#xe41c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_streetview" Value="&#xe56e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_strikethrough_s" Value="&#xe257;" />
+	<Text Font="MaterialIcons" ux:Class="mi_style" Value="&#xe41d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_subdirectory_arrow_left" Value="&#xe5d9;" />
+	<Text Font="MaterialIcons" ux:Class="mi_subdirectory_arrow_right" Value="&#xe5da;" />
+	<Text Font="MaterialIcons" ux:Class="mi_subject" Value="&#xe8d2;" />
+	<Text Font="MaterialIcons" ux:Class="mi_subscriptions" Value="&#xe064;" />
+	<Text Font="MaterialIcons" ux:Class="mi_subtitles" Value="&#xe048;" />
+	<Text Font="MaterialIcons" ux:Class="mi_subway" Value="&#xe56f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_supervisor_account" Value="&#xe8d3;" />
+	<Text Font="MaterialIcons" ux:Class="mi_surround_sound" Value="&#xe049;" />
+	<Text Font="MaterialIcons" ux:Class="mi_swap_calls" Value="&#xe0d7;" />
+	<Text Font="MaterialIcons" ux:Class="mi_swap_horiz" Value="&#xe8d4;" />
+	<Text Font="MaterialIcons" ux:Class="mi_swap_vert" Value="&#xe8d5;" />
+	<Text Font="MaterialIcons" ux:Class="mi_swap_vertical_circle" Value="&#xe8d6;" />
+	<Text Font="MaterialIcons" ux:Class="mi_switch_camera" Value="&#xe41e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_switch_video" Value="&#xe41f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_sync" Value="&#xe627;" />
+	<Text Font="MaterialIcons" ux:Class="mi_sync_disabled" Value="&#xe628;" />
+	<Text Font="MaterialIcons" ux:Class="mi_sync_problem" Value="&#xe629;" />
+	<Text Font="MaterialIcons" ux:Class="mi_system_update" Value="&#xe62a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_system_update_alt" Value="&#xe8d7;" />
+	<Text Font="MaterialIcons" ux:Class="mi_tab" Value="&#xe8d8;" />
+	<Text Font="MaterialIcons" ux:Class="mi_tab_unselected" Value="&#xe8d9;" />
+	<Text Font="MaterialIcons" ux:Class="mi_tablet" Value="&#xe32f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_tablet_android" Value="&#xe330;" />
+	<Text Font="MaterialIcons" ux:Class="mi_tablet_mac" Value="&#xe331;" />
+	<Text Font="MaterialIcons" ux:Class="mi_tag_faces" Value="&#xe420;" />
+	<Text Font="MaterialIcons" ux:Class="mi_tap_and_play" Value="&#xe62b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_terrain" Value="&#xe564;" />
+	<Text Font="MaterialIcons" ux:Class="mi_text_fields" Value="&#xe262;" />
+	<Text Font="MaterialIcons" ux:Class="mi_text_format" Value="&#xe165;" />
+	<Text Font="MaterialIcons" ux:Class="mi_textsms" Value="&#xe0d8;" />
+	<Text Font="MaterialIcons" ux:Class="mi_texture" Value="&#xe421;" />
+	<Text Font="MaterialIcons" ux:Class="mi_theaters" Value="&#xe8da;" />
+	<Text Font="MaterialIcons" ux:Class="mi_thumb_down" Value="&#xe8db;" />
+	<Text Font="MaterialIcons" ux:Class="mi_thumb_up" Value="&#xe8dc;" />
+	<Text Font="MaterialIcons" ux:Class="mi_thumbs_up_down" Value="&#xe8dd;" />
+	<Text Font="MaterialIcons" ux:Class="mi_time_to_leave" Value="&#xe62c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_timelapse" Value="&#xe422;" />
+	<Text Font="MaterialIcons" ux:Class="mi_timeline" Value="&#xe922;" />
+	<Text Font="MaterialIcons" ux:Class="mi_timer" Value="&#xe425;" />
+	<Text Font="MaterialIcons" ux:Class="mi_timer_10" Value="&#xe423;" />
+	<Text Font="MaterialIcons" ux:Class="mi_timer_3" Value="&#xe424;" />
+	<Text Font="MaterialIcons" ux:Class="mi_timer_off" Value="&#xe426;" />
+	<Text Font="MaterialIcons" ux:Class="mi_title" Value="&#xe264;" />
+	<Text Font="MaterialIcons" ux:Class="mi_toc" Value="&#xe8de;" />
+	<Text Font="MaterialIcons" ux:Class="mi_today" Value="&#xe8df;" />
+	<Text Font="MaterialIcons" ux:Class="mi_toll" Value="&#xe8e0;" />
+	<Text Font="MaterialIcons" ux:Class="mi_tonality" Value="&#xe427;" />
+	<Text Font="MaterialIcons" ux:Class="mi_touch_app" Value="&#xe913;" />
+	<Text Font="MaterialIcons" ux:Class="mi_toys" Value="&#xe332;" />
+	<Text Font="MaterialIcons" ux:Class="mi_track_changes" Value="&#xe8e1;" />
+	<Text Font="MaterialIcons" ux:Class="mi_traffic" Value="&#xe565;" />
+	<Text Font="MaterialIcons" ux:Class="mi_train" Value="&#xe570;" />
+	<Text Font="MaterialIcons" ux:Class="mi_tram" Value="&#xe571;" />
+	<Text Font="MaterialIcons" ux:Class="mi_transfer_within_a_station" Value="&#xe572;" />
+	<Text Font="MaterialIcons" ux:Class="mi_transform" Value="&#xe428;" />
+	<Text Font="MaterialIcons" ux:Class="mi_translate" Value="&#xe8e2;" />
+	<Text Font="MaterialIcons" ux:Class="mi_trending_down" Value="&#xe8e3;" />
+	<Text Font="MaterialIcons" ux:Class="mi_trending_flat" Value="&#xe8e4;" />
+	<Text Font="MaterialIcons" ux:Class="mi_trending_up" Value="&#xe8e5;" />
+	<Text Font="MaterialIcons" ux:Class="mi_tune" Value="&#xe429;" />
+	<Text Font="MaterialIcons" ux:Class="mi_turned_in" Value="&#xe8e6;" />
+	<Text Font="MaterialIcons" ux:Class="mi_turned_in_not" Value="&#xe8e7;" />
+	<Text Font="MaterialIcons" ux:Class="mi_tv" Value="&#xe333;" />
+	<Text Font="MaterialIcons" ux:Class="mi_unarchive" Value="&#xe169;" />
+	<Text Font="MaterialIcons" ux:Class="mi_undo" Value="&#xe166;" />
+	<Text Font="MaterialIcons" ux:Class="mi_unfold_less" Value="&#xe5d6;" />
+	<Text Font="MaterialIcons" ux:Class="mi_unfold_more" Value="&#xe5d7;" />
+	<Text Font="MaterialIcons" ux:Class="mi_update" Value="&#xe923;" />
+	<Text Font="MaterialIcons" ux:Class="mi_usb" Value="&#xe1e0;" />
+	<Text Font="MaterialIcons" ux:Class="mi_verified_user" Value="&#xe8e8;" />
+	<Text Font="MaterialIcons" ux:Class="mi_vertical_align_bottom" Value="&#xe258;" />
+	<Text Font="MaterialIcons" ux:Class="mi_vertical_align_center" Value="&#xe259;" />
+	<Text Font="MaterialIcons" ux:Class="mi_vertical_align_top" Value="&#xe25a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_vibration" Value="&#xe62d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_video_call" Value="&#xe070;" />
+	<Text Font="MaterialIcons" ux:Class="mi_video_label" Value="&#xe071;" />
+	<Text Font="MaterialIcons" ux:Class="mi_video_library" Value="&#xe04a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_videocam" Value="&#xe04b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_videocam_off" Value="&#xe04c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_videogame_asset" Value="&#xe338;" />
+	<Text Font="MaterialIcons" ux:Class="mi_view_agenda" Value="&#xe8e9;" />
+	<Text Font="MaterialIcons" ux:Class="mi_view_array" Value="&#xe8ea;" />
+	<Text Font="MaterialIcons" ux:Class="mi_view_carousel" Value="&#xe8eb;" />
+	<Text Font="MaterialIcons" ux:Class="mi_view_column" Value="&#xe8ec;" />
+	<Text Font="MaterialIcons" ux:Class="mi_view_comfy" Value="&#xe42a;" />
+	<Text Font="MaterialIcons" ux:Class="mi_view_compact" Value="&#xe42b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_view_day" Value="&#xe8ed;" />
+	<Text Font="MaterialIcons" ux:Class="mi_view_headline" Value="&#xe8ee;" />
+	<Text Font="MaterialIcons" ux:Class="mi_view_list" Value="&#xe8ef;" />
+	<Text Font="MaterialIcons" ux:Class="mi_view_module" Value="&#xe8f0;" />
+	<Text Font="MaterialIcons" ux:Class="mi_view_quilt" Value="&#xe8f1;" />
+	<Text Font="MaterialIcons" ux:Class="mi_view_stream" Value="&#xe8f2;" />
+	<Text Font="MaterialIcons" ux:Class="mi_view_week" Value="&#xe8f3;" />
+	<Text Font="MaterialIcons" ux:Class="mi_vignette" Value="&#xe435;" />
+	<Text Font="MaterialIcons" ux:Class="mi_visibility" Value="&#xe8f4;" />
+	<Text Font="MaterialIcons" ux:Class="mi_visibility_off" Value="&#xe8f5;" />
+	<Text Font="MaterialIcons" ux:Class="mi_voice_chat" Value="&#xe62e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_voicemail" Value="&#xe0d9;" />
+	<Text Font="MaterialIcons" ux:Class="mi_volume_down" Value="&#xe04d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_volume_mute" Value="&#xe04e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_volume_off" Value="&#xe04f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_volume_up" Value="&#xe050;" />
+	<Text Font="MaterialIcons" ux:Class="mi_vpn_key" Value="&#xe0da;" />
+	<Text Font="MaterialIcons" ux:Class="mi_vpn_lock" Value="&#xe62f;" />
+	<Text Font="MaterialIcons" ux:Class="mi_wallpaper" Value="&#xe1bc;" />
+	<Text Font="MaterialIcons" ux:Class="mi_warning" Value="&#xe002;" />
+	<Text Font="MaterialIcons" ux:Class="mi_watch" Value="&#xe334;" />
+	<Text Font="MaterialIcons" ux:Class="mi_watch_later" Value="&#xe924;" />
+	<Text Font="MaterialIcons" ux:Class="mi_wb_auto" Value="&#xe42c;" />
+	<Text Font="MaterialIcons" ux:Class="mi_wb_cloudy" Value="&#xe42d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_wb_incandescent" Value="&#xe42e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_wb_iridescent" Value="&#xe436;" />
+	<Text Font="MaterialIcons" ux:Class="mi_wb_sunny" Value="&#xe430;" />
+	<Text Font="MaterialIcons" ux:Class="mi_wc" Value="&#xe63d;" />
+	<Text Font="MaterialIcons" ux:Class="mi_web" Value="&#xe051;" />
+	<Text Font="MaterialIcons" ux:Class="mi_web_asset" Value="&#xe069;" />
+	<Text Font="MaterialIcons" ux:Class="mi_weekend" Value="&#xe16b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_whatshot" Value="&#xe80e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_widgets" Value="&#xe1bd;" />
+	<Text Font="MaterialIcons" ux:Class="mi_wifi" Value="&#xe63e;" />
+	<Text Font="MaterialIcons" ux:Class="mi_wifi_lock" Value="&#xe1e1;" />
+	<Text Font="MaterialIcons" ux:Class="mi_wifi_tethering" Value="&#xe1e2;" />
+	<Text Font="MaterialIcons" ux:Class="mi_work" Value="&#xe8f9;" />
+	<Text Font="MaterialIcons" ux:Class="mi_wrap_text" Value="&#xe25b;" />
+	<Text Font="MaterialIcons" ux:Class="mi_youtube_searched_for" Value="&#xe8fa;" />
+	<Text Font="MaterialIcons" ux:Class="mi_zoom_in" Value="&#xe8ff;" />
+	<Text Font="MaterialIcons" ux:Class="mi_zoom_out" Value="&#xe900;" />
+	<Text Font="MaterialIcons" ux:Class="mi_zoom_out_map" Value="&#xe56b;" />
 
 </Panel>
